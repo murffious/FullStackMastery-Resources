@@ -24,3 +24,22 @@ Big O
 
 Put the slide from Galye here 
 
+Surround myself with reading and trends to stay current and learn new things from other passionate/experts
+Youtube Chanels
+Traverys media
+DevTips
+LevelUpTuts
+
+Blogs
+Medium
+
+Follow and Jon gorup0s on Facebook (helps bring code to all parts of life even social media)
+Follow JavaScript Weekly - great posts into social feed
+React Js Group 23,000 members
+
+Books 
+
+With so many resources how to focus and master - feel like its way too much - feel overwhelmed
+
+
+Put all the steps from demtn psot grad sheet here. 
