@@ -31,7 +31,9 @@ for example
 <li*  turns into <li 3x etc 
 SIDE NOTE : EMACS VIM for remote server access to file and edit etc ENANO?
 
-2. Git 
+2. Git https://git-scm.com/book/en/v2
+I made a super cool list of git commands but dont know where ...basics
+
 3. 
 
 Dev Tools
@@ -40,7 +42,9 @@ Dev Tools
 BE READY : Interview prep(which is a masterty of sorts) and general CS knowledge 
 Algorithms
 Big O
-
+https://www.youtube.com/watch?v=KatlvCFHPRo
+https://www.youtube.com/watch?v=v4cd1O4zkGw
+Galye lots of them../? some okay better than oters
 Put the slide from Galye here 
 
 Surround myself with reading and trends to stay current and learn new things from other passionate/experts
@@ -48,6 +52,9 @@ Youtube Chanels
 Traverys media
 DevTips
 LevelUpTuts
+
+PULIC APIS and more
+free photos sites
 
 Blogs
 Medium
