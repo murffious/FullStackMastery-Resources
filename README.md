@@ -16,8 +16,27 @@ Top learning sites and authors and recap
 Front End
 Back End
 
+#Wokflow
+1. Text Editor
+VS CODE GUI for git
+Branching version control error reading 
+Top 5 hot keys to know 
+CTRL + A
+CTRL + C 
+CTRL + V
+SHIFT UP ARROW
+CTRL + D
+Code snippets
+for example 
+<li*  turns into <li 3x etc 
+SIDE NOTE : EMACS VIM for remote server access to file and edit etc ENANO?
 
+2. Git 
+3. 
 
+Dev Tools
+1.
+2.
 BE READY : Interview prep(which is a masterty of sorts) and general CS knowledge 
 Algorithms
 Big O
