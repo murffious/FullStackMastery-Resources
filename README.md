@@ -30,7 +30,7 @@ Code snippets
 for example 
 <li*  turns into <li 3x etc 
 SIDE NOTE : EMACS VIM for remote server access to file and edit etc ENANO?
-
+http://www.gnu.org/software/emacs/tour/
 2. Git https://git-scm.com/book/en/v2
 I made a super cool list of git commands but dont know where ...basics
 
