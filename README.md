@@ -20,6 +20,10 @@ http://blog.discudemy.com/used-js-framework-udemy-courses-free-worth-2000-45-cou
 Making cool README
 http://www.screentogif.com/
 
+https://guides.github.com/features/mastering-markdown/
+https://help.github.com/articles/about-readmes/
+Open up Issues and drg a photo from the Harddrive or whever into the box and copy the link that auto generates that will display a real photo 
+
 ##### Skill: Workflow
 This is intended to be the first most basic steps> If something is unfamilar ebleive me you will not want to skip over it. I have sat next to a 7 year veteran Senior dev and he did not know some of these keys 
 Text Editor (IDE integrated development environment) - VS code is winning the fight according to some sources to be honest my personal opinoin is that overall its the easiet to use and is free. Webstorm is cool but cost moneya and has differnt hot keys and bascially is hard to learn from my epxerience people still using Sublime are jsut "don't want to change old shocoolers" which has its place for peopel that are really good and don't need more or new. If you want to use Sublime, Atom whatever then jsut google how to do all these things in that editor and you will be fine. But they all are great so that would be a worthwhile exericse.
@@ -224,6 +228,7 @@ https://www.codingame.com/start
 Coding Challenge sites - great for preparing for technical interviews also just for language masterty and FUN.
 Code Fighters
 
+https://coderbyte.com/
 Codewars
 
 Codility ( Click on lessons they score for BIG O so very useful compared to Codewars where any code wins BUT takes longer to solve each one and does not have the fun factor of Codewars
@@ -266,3 +271,4 @@ We're 960 IoT Engineers and Entrepreneurs
 
 JavaScript Lecture Series
 We're 224 Members
+
