@@ -121,3 +121,54 @@ React Native Tutorial ready for making tru digital app
 
 
 Most of all having fun while coidng is key. Any career guru would tell you taht and hapness specialist. If you hate code obviosly move on if not thoguht try thinking of 10 things you wish you could make or wished existed in tech and it can exicte you. 
+Laser like. Or something similar 
+
+
+Google FU 
+Ctrl D in webstorm select multiple cursors. 
+Force semi colon. 
+Type checking 
+Force spacing 
+Key argument here is what some call writing legible code. 
+
+Varabile names are descriptive. Functions camel case 
+Pick a style and stick to it and likely have to use a company stander so look at these two reps to get and idea of how that is and know how to dial in the tools to automate what you can 
+
+Mini style guides. 
+Dear aspiring programmer I am someone who loves to share and help others learn what I have learned in college my favorite professor made dvd of all his lectures.  Then when I labeled react I fell in love with Stephen Grider who is would say is like that odorless in college. Ia m making my own boxes some day of topics I love until then I have this to share.   
+
+Free tests from plural sight. 
+
+
+They say if you really want to learn something teach it. 
+Coders manifest. 
+Draw your ideas out and share them with close associates/friends.   
+
+Electron.  React native. -  alll the ones on job resumes.  Maybe I can build that bot as the last part of this. 
+
+Include my trello all on here
+Shift F12 and CTRL click on a function call  to follow it.
+
+
+Package JSon tutorials
+
+
+[2:26] 
+On the go coding apps for free.  Solo learning ecko. All my apps
+
+
+[2:27] 
+Google FU. Something something codepen. Or or js bin. Etc.
+
+
+[2:28] 
+How to compile on code pen the css to copy and paste it or turn it into scss
+
+
+[2:28] 
+Simple basic. Like with carousel.
+
+JavaScript in 30. Inputs free game class
+It enough time in a boot camp or if you are preparing for a boot camp and honestly to replace a boot camp for less than 150$
+
+Front-end frameworks and Single Page Web Applications (SPA)
