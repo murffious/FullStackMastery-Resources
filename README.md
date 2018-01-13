@@ -88,6 +88,9 @@ Copy the entire things by clicking copy outer html
 also can copy the enitre css document in a snese by useing CSS Steal extension and indivually by viewing each itme and its CSS
 also you can find some of the JS
 
+click the arrow to inpect an element
+see the CSS associated and the classes break down - 
+mobile responsive and tablet view 
 Network . XHR 
 all the images 
 scarpers 
