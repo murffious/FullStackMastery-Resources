@@ -10,18 +10,25 @@ About me: After writing my first lines of code while taking a basic tutorial on 
 
 ##### Skill: Workflow
 This is intended to be the first most basic steps> If something is unfamilar ebleive me you will not want to skip over it. I have sat next to a 7 year veteran Senior dev and he did not know some of these keys 
-Text Editor (IDE integrated development environment)
+Text Editor (IDE integrated development environment) - VS code is winning the fight according to some sources to be honest my personal opinoin is that overall its the easiet to use and is free. Webstorm is cool but cost moneya and has differnt hot keys and bascially is hard to learn from my epxerience people still using Sublime are jsut "don't want to change old shocoolers" which has its place for peopel that are really good and don't need more or new. If you want to use Sublime, Atom whatever then jsut google how to do all these things in that editor and you will be fine. But they all are great so that would be a worthwhile exericse.
+
 CTRL + A Selects all
 CTRL + C ULTIMATE KEY OF ALL copy surprisingly high nuer of previous non coders dont reallu use this unless really good on a computer right lcik copy is super slow )
 CTRL + V Paste 
 SHIFT UP ARROW  move the line up or down not sure what this key is yet look it up
 CTRL + D (esp useful remember to use Home and End keys to dynamically scroll to end or beginning of the lines text dynamically)
 CTRL + ?/ (after selecting a block of code this will comment or uncomment if commented out the whole block or line) 
-
-
+Save all 
 Code snippets
 for example 
 <li*  turns into <li 3x etc 
+
+GUI for git 
+
+Debugger for Node
+
+% key extentions for VS CODE 
+
 
 Git or version control
 99% of the commands I actually use in dev on the job ( not implying this is what should be or is done by others or even is the best set at all just plainly what I happen to use and sure it will evolve)
