@@ -1,8 +1,7 @@
 IN PROGRESS - CHECK BACK LATER 
 
 # FullStackMastery-Resources
-    I have pretty much eat slept dreamt code for the last 12 monthas and wanted to share everything I learned to help others on their coidng journey.  It is a duty of a developer to share code skills with all. I am knowing that this document is a "living" document and will change, grow, mature and hope it becomes a great reference as I am sure many are out there as well but never foudn one so making it myself. Just google how to do on certian IDE or OS.  
-
+   
 ### Purpose:  A guide to improving your skills in Full Stack Software / Web Devlopment.
 About me: After writing my first lines of code while taking a basic tutorial on Codecademy in January of 2017 it was about 1 year later when I was fully employed in a stable job as a Full Stack Software developer at a good wage. To do that I became proficient. Proficiency and Mastery are two different things so this guide is dedicated to the latter. To make Senior I must become a master at my craft. I set the goal to master my craft within 5 years and to become an expert.  Just doing my work each day is not going to be enough I thought so I made this project to help me and figured others would benefit as well. 
 
@@ -54,8 +53,57 @@ Snippets of any language so for example when I type ccc tab it creates the whle 
 Jshint
 Emmet - code completion and snipppets 
 
+
+INITIAL SET UP :
+INSTALLS 
+
+
+Terminal (for linus users use Terminator for teh ideal experience APple has similar)
+Unix Commands - The termminal is where programmers live GUI are cool and great but you will need to get used to useing this great tool. Growing up all I rmember was run.exe such and such . So Windows or other OS is jsut a GUI for doing this 
+command   Description
+pwd       
+ls
+ls -a see hidden files like git 
+ls -ll see who owns the file (if it ever errors messages give you that you don't have that permission it may be wise to check what user owns it for example)
+cd [dir]
+mkdir [dir]
+rm
+touch
+cat
+cd ~ home root
+Git HUb or bitbucket 
+
+vim  - sometimes your temrianl will jump to some weird looking screen it could mean you entered into VIM its like a text editor inside the terminal - good for making quick changes and adding commands/code to computer config files etc 
+esc : wq
+
+nano 
+ctrl x
+
+
+HTML - code validation W3
+ 
+ Getting oriented with Chrome
+ Google Dev tools (Also Mozilla )
+Copy the entire things by clicking copy outer html 
+also can copy the enitre css document in a snese by useing CSS Steal extension and indivually by viewing each itme and its CSS
+also you can find some of the JS
+
+Network . XHR 
+all the images 
+scarpers 
+source
+
+breakpoints 
+console. (front end code only) remember the clear conosle siymbooll and persist logs so you get the logs even when chanign pages which can be useful 
+
+10 Words you need to know well
+MVC
+IDE
+DOM way of representing objects that can be defined via HTML and then later to be able to possibly interact with through a scripting lanague like JavaScript. HTML tags are known as nodes on the DOM. It can be ordered like a family tree chart.  Parents, children, siblings and so forth in a heirarchal order. So a ul would be the parent of the li and if it has 2 li then those are siblings. Decendants is a common word. 
+
 Git or version control
 99% of the commands I actually use in dev on the job ( not implying this is what should be or is done by others or even is the best set at all just plainly what I happen to use and sure it will evolve)
+git init (creates a folder for git version control .git)
 git add .
 git commit -m "my message here"
 git push 
