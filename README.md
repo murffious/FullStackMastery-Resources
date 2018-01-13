@@ -1,9 +1,9 @@
 IN PROGRESS - CHECK BACK LATER 
 
 # FullStackMastery-Resources
+About me: After starting my first tutorial on Codecademy in January of 2017 it was about 1 year later when I was fully employed in a stable job as a Full Stack Software developer at a good wage. Proficiency and Mastery are two different things so this guide is dedicated to the latter.  To make Senior I must become a master at my craft.    
 
-###Purpose:  This is a collection of resources to help a beginner to intermediate level full stack developer
- become a master of their craft.
+###Purpose:  A guide to improving your skills in Full Stack Software / Web Devlopment.
 
 Baically I went to a coding boot camp and succesfully obtained a full time and full stack software developer job. I set the goal
 to master my craft within 5 years to become an expert.  Just doing my work each day is not going to be enough I thought so 
@@ -69,3 +69,16 @@ With so many resources how to focus and master - feel like its way too much - fe
 
 
 Put all the steps from demtn psot grad sheet here. 
+
+Trends and libraries news etc updates JavaScript news  
+https://risingstars.js.org/2017/en/#section-all
+https://stateofjs.com/
+
+
+Git gist
+Replit 
+jsbin
+
+
+React Native Tutorial ready for making tru digital app 
+
