@@ -12,6 +12,7 @@ About me: After writing my first lines of code while taking a basic tutorial on 
 This is intended to be the first most basic steps> If something is unfamilar ebleive me you will not want to skip over it. I have sat next to a 7 year veteran Senior dev and he did not know some of these keys 
 Text Editor (IDE integrated development environment) - VS code is winning the fight according to some sources to be honest my personal opinoin is that overall its the easiet to use and is free. Webstorm is cool but cost moneya and has differnt hot keys and bascially is hard to learn from my epxerience people still using Sublime are jsut "don't want to change old shocoolers" which has its place for peopel that are really good and don't need more or new. If you want to use Sublime, Atom whatever then jsut google how to do all these things in that editor and you will be fine. But they all are great so that would be a worthwhile exericse.
 
+CTRL is the same as using the command key on Mac
 CTRL + A Selects all
 CTRL + C ULTIMATE KEY OF ALL copy surprisingly high nuer of previous non coders dont reallu use this unless really good on a computer right lcik copy is super slow )
 CTRL + V Paste 
@@ -28,7 +29,14 @@ GUI for git
 Debugger for Node
 
 % key extentions for VS CODE 
-
+Prettier - use a config as such
+open in browser `techer.open-in-browser` - allows you to right click on an html file and load it in the browser
+Prettier- Codeformatter `esbenp.prettier-vscode`
+ES lint 
+Beautify (says it works for React JSX but NOT that good ) 
+Snippets of any language so for example when I type ccc tab it creates the whle component boiler plate in React. 
+Jshint
+Emmet - code completion and snipppets 
 
 Git or version control
 99% of the commands I actually use in dev on the job ( not implying this is what should be or is done by others or even is the best set at all just plainly what I happen to use and sure it will evolve)
@@ -149,7 +157,8 @@ Electron.  React native. -  alll the ones on job resumes.  Maybe I can build tha
 Include my trello all on here
 Shift F12 and CTRL click on a function call  to follow it.
 
-
+Google 
+https://developers.google.com/edu/python/introduction
 Package JSon tutorials
 
 
