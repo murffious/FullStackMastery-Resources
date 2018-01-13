@@ -8,6 +8,17 @@ About me: After writing my first lines of code while taking a basic tutorial on 
 
 **This is just a resource I do not claim ownership of anything on here.  
 
+
+video on the Hiostry of the the internet here. 
+https://youtu.be/a2e3cAc4Ux4
+
+https://javascript30.com/
+http://blog.discudemy.com/used-js-framework-udemy-courses-free-worth-2000-45-coupons/
+
+
+Making cool README
+http://www.screentogif.com/
+
 ##### Skill: Workflow
 This is intended to be the first most basic steps> If something is unfamilar ebleive me you will not want to skip over it. I have sat next to a 7 year veteran Senior dev and he did not know some of these keys 
 Text Editor (IDE integrated development environment) - VS code is winning the fight according to some sources to be honest my personal opinoin is that overall its the easiet to use and is free. Webstorm is cool but cost moneya and has differnt hot keys and bascially is hard to learn from my epxerience people still using Sublime are jsut "don't want to change old shocoolers" which has its place for peopel that are really good and don't need more or new. If you want to use Sublime, Atom whatever then jsut google how to do all these things in that editor and you will be fine. But they all are great so that would be a worthwhile exericse.
@@ -63,7 +74,11 @@ WARNING PERSONAL SOAP BOX feel free to skip or not :
 if you ever heard the joke ... I did from my CTO and Senior and other Junior Devs 2 or 4 spaces so I did some reaserch and top repos use 2 and 4 there are pros and cons to each. My philosophy is that I could careless jsut let the comoaony decide and if you are that person to decide then literally flip a coin casue I really dont't think it matters. But I amy be shot for sayinga s such annd have been yelled at for real. The most important thing is to make sure you use technolgyo or software to do it for you or in my book y0ou are not a real programmer in fact aht is what wwe do is make things besiter autoemated sreamlined by telling computers to do work for us.  I promised myself when I learned about this debate I would never really get in the habit of hitting tab or spacces but when I hit CTRL S (save in your respective IDE ) the work would be done for you. 
 
 
-Top learning sites and authors and recap
+Top paid learning sites and authors and recap
+Treehouse
+Lynda.com (check your local library if they offer a free subscription mine does) 
+Udmey ( you should google coupons and most the time 10-12-15-19 dollar offers ) 
+Front End Masters - 
 
 Front End
 Back End
@@ -91,6 +106,29 @@ https://www.youtube.com/watch?v=KatlvCFHPRo
 https://www.youtube.com/watch?v=v4cd1O4zkGw
 Galye lots of them../? some okay better than oters
 Put the slide from Galye here 
+
+
+TESTING 
+http://nibbler.silktide.com/
+https://developers.google.com/web/tools/lighthouse/
+
+Coding on the GO ! Some free apps that can help you learn/ code on the go. 
+Solo Learn
+jQuery Aide
+AngularJSPro
+JS Air 
+JS Anywhere
+JsTips
+Stack Overflow
+Laserlike - select all web dev, software type topics to have in feed
+
+Social Coding
+CodePen 
+JsBin
+Replit (perfect for saving just plain JS snippets (and other lagauges) for reference and having a place to run and test js code. 
+Git hub Gist - 
+Simba and VS code and websotrm have live coding software like Google docs. 
+https://arstechnica.com/gadgets/2017/11/visual-studio-live-share-takes-the-pain-out-of-collaborative-coding/
 
 Surround myself with reading and trends to stay current and learn new things from other passionate/experts
 Youtube Chanels
@@ -181,3 +219,11 @@ JavaScript in 30. Inputs free game class
 It enough time in a boot camp or if you are preparing for a boot camp and honestly to replace a boot camp for less than 150$
 
 Front-end frameworks and Single Page Web Applications (SPA)
+
+Trends and Latest Tech (good for ideas and knowing what is out there currently on the cutting edge)
+https://techcrunch.com/
+Fast Company 
+Troll the app store montlhy or weekly to see newest apps. donwload feaztured ones that look likke your thing or very helpful to see latest incorporations of tech. 
+Soend 1-2 hours going over all the best rated websites in the world to see what is possible. 
+
+https://www.codingame.com/start
