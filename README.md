@@ -1,7 +1,7 @@
 IN PROGRESS - CHECK BACK LATER 
 
 # FullStackMastery-Resources
-    
+    I have pretty much eat slept dreamt code for the last 12 monthas and wanted to share everything I learned to help others on their coidng journey.  It is a duty of a developer to share code skills with all. I am knowing that this document is a "living" document and will change, grow, mature and hope it becomes a great reference as I am sure many are out there as well but never foudn one so making it myself. Just google how to do on certian IDE or OS.  
 
 ### Purpose:  A guide to improving your skills in Full Stack Software / Web Devlopment.
 About me: After writing my first lines of code while taking a basic tutorial on Codecademy in January of 2017 it was about 1 year later when I was fully employed in a stable job as a Full Stack Software developer at a good wage. To do that I became proficient. Proficiency and Mastery are two different things so this guide is dedicated to the latter. To make Senior I must become a master at my craft. I set the goal to master my craft within 5 years and to become an expert.  Just doing my work each day is not going to be enough I thought so I made this project to help me and figured others would benefit as well. 
@@ -11,6 +11,7 @@ About me: After writing my first lines of code while taking a basic tutorial on 
 
 video on the Hiostry of the the internet here. 
 https://youtu.be/a2e3cAc4Ux4
+HArvard CS 50 calss either year or latest one edx HTML class as well free Udemy courses
 
 https://javascript30.com/
 http://blog.discudemy.com/used-js-framework-udemy-courses-free-worth-2000-45-coupons/
@@ -120,6 +121,7 @@ JS Air
 JS Anywhere
 JsTips
 Stack Overflow
+Enki - like those brain games but for code 
 Laserlike - select all web dev, software type topics to have in feed
 
 Social Coding
@@ -199,20 +201,10 @@ Google
 https://developers.google.com/edu/python/introduction
 Package JSon tutorials
 
-
-[2:26] 
 On the go coding apps for free.  Solo learning ecko. All my apps
-
-
-[2:27] 
-Google FU. Something something codepen. Or or js bin. Etc.
-
-
-[2:28] 
+Google FU. Something something codepen. Or or js bin. Etc. 
 How to compile on code pen the css to copy and paste it or turn it into scss
 
-
-[2:28] 
 Simple basic. Like with carousel.
 
 JavaScript in 30. Inputs free game class
@@ -227,3 +219,43 @@ Troll the app store montlhy or weekly to see newest apps. donwload feaztured one
 Soend 1-2 hours going over all the best rated websites in the world to see what is possible. 
 
 https://www.codingame.com/start
+
+
+
+MeetUps - free to join usually have food and coding time with a lecture - network, make friends, meet future business associates
+
+UtahJS
+We're 2,444 JavaScriptafarians
+
+Angular Utah
+We're 2,106 Angularians
+
+HackerNest Salt Lake City Tech Socials
+We're 822 HackerNesters
+
+ReactJS Utah
+We're 1,229 Members
+
+Utah Software Craftsmanship
+We're 935 Craftsmen
+
+Silicon Slopes Developer Chapter
+We're 385 Silicon Slopers
+ 
+SLC Tech Startups
+We're 1,909 Tech Entrepreneurs
+ 
+Utah Node.js - Salt Lake City
+We're 1,295 Node Ninjas
+
+Utah Elm Lunch
+We're 248 People who use Elm
+
+Bleeding Edge Web
+We're 3,080 Edgers
+ 
+Utah Internet of Things (IoT)
+We're 960 IoT Engineers and Entrepreneurs
+
+JavaScript Lecture Series
+We're 224 Members
