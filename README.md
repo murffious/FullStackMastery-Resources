@@ -221,6 +221,13 @@ Soend 1-2 hours going over all the best rated websites in the world to see what 
 https://www.codingame.com/start
 
 
+Coding Challenge sites - great for preparing for technical interviews also just for language masterty and FUN.
+Code Fighters
+
+Codewars
+
+Codility ( Click on lessons they score for BIG O so very useful compared to Codewars where any code wins BUT takes longer to solve each one and does not have the fun factor of Codewars
+
 
 MeetUps - free to join usually have food and coding time with a lecture - network, make friends, meet future business associates
 
