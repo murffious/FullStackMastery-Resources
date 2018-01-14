@@ -63,7 +63,14 @@ for example
 
 GUI for git 
 
-Debugger for Node
+Debugger for Node vs code
+breakpoints
+conitional breakpoint - freeze at certain number in loop for example hit count then expression .  
+launch.json attach
+smart step blackboxing not into dependencies my code only 
+restart stackframe
+column breakpoints on cahined on eline functions 
+chrome and node in vs code seemlessly debug back end node and front end two runtimes
 
 % key extentions for VS CODE 
 Prettier - use a config as such
@@ -93,6 +100,12 @@ rm
 touch
 cat
 cd ~ home root
+fg
+killall node 
+killall -9 npm
+ipaddress stuff 
+
+
 Git HUb or bitbucket 
 
 vim  - sometimes your temrianl will jump to some weird looking screen it could mean you entered into VIM its like a text editor inside the terminal - good for making quick changes and adding commands/code to computer config files etc 
@@ -161,6 +174,11 @@ JavaScript - turnign arrays into strings and strings into arrays , sort , code w
 manipulation of DOM document.getELememtnBY Jquery lead in on the declilne but stil very useful 
 JShint code editor 
 JSON pretty print 
+V8 engine
+mozilla servo js runtime rust paralellism
+chakra
+js core safari
+
 
 CSS 
 block inline box model 
