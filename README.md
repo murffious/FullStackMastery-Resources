@@ -2,8 +2,22 @@ IN PROGRESS - CHECK BACK LATER
 
 # FullStackMastery-Resources
 
-What advantage does a bootcamp really give over self taught ?
-If there were anyway to convince a person there is no need for a bootcamp I will find it. Imagine this: 1 year experience collecting everything and trying to tell someone everything they learned in bootcamp and full time emploemtn and many horus of googling and many courses and tutorials. All they tell you is to go on stakc overflow and for me - activites have some one or some other student to ask how to do it when sstuck . its the getting unstuck that is priceless with boootcamps.  one aleterntiave is active pteachers and ta  s on udemy and other sites treehouse tehese actually work pretty good but most do not have immediate feedback.  
+What advantage does a bootcamp really give over self taught ? Should I do a bootcamp or self teach ?
+If there were anyway to convince a person there is no need for a bootcamp I will find it. Imagine this: 1 year experience collecting everything and trying to tell someone everything they learned in bootcamp and full time emploemtn and many horus of googling and many courses and tutorials. All they tell you is to go on stakc overflow and for me - activites have some one or some other student to ask how to do it when sstuck . its the getting unstuck that is priceless with boootcamps.  one aleterntiave is active pteachers and ta  s on udemy and other sites treehouse tehese actually work pretty good but most do not have immediate feedback.  Guided activites : ineractions with other studetns (netowrking etc) freecodecamp.org
+https://thimble.mozilla.org google
+code 360 and othr walkthrogh for coding challenges
+https://www.thebalance.com/best-places-to-learn-to-code-for-free-2071392
+that boot camp prep calss i have hackreactor
+
+Codecademy. Chances are if you have looked into learning to code before, you've encountered Codecademy. ...
+Free Code Camp. ...
+GA Dash. ...
+Codewars. ...
+Coursera. ...
+edX. ...
+Khan Academy. ...
+MIT OpenCourseWare
+
 
 ### Purpose:  A guide to improving your skills in Full Stack Software / Web Devlopment.
 About me: After writing my first lines of code while taking a basic tutorial on Codecademy in January of 2017 it was about 1 year later when I was fully employed in a stable job as a Full Stack Software developer at a good wage. To do that I became proficient. Proficiency and Mastery are two different things so this guide is dedicated to the latter. To make Senior I must become a master at my craft. I set the goal to master my craft within 5 years and to become an expert.  Just doing my work each day is not going to be enough I thought so I made this project to help me and figured others would benefit as well. 
