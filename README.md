@@ -4,6 +4,11 @@ Learning how to program outside of school is increasingly common. A 2015 Stack O
 
 Althoff, Cory. The Self-Taught Programmer: The Definitive Guide to Programming Professionally (p. 3). Triangle Connection LLC. Kindle Edition. 
 
+Programming is writing instructions for a computer to execute. The instructions might tell the computer to print Hello, World!, scrape data from the Internet, or read the contents of a file and save them to a database. These instructions are called code.
+
+Althoff, Cory. The Self-Taught Programmer: The Definitive Guide to Programming Professionally (p. 7). Triangle Connection LLC. Kindle Edition. 
+OS Linux ubutu Apple Unix1970 windows
+
 What advantage does a bootcamp really give over self taught ? Should I do a bootcamp or self teach ?
 If there were anyway to convince a person there is no need for a bootcamp I will find it. Imagine this: 1 year experience collecting everything and trying to tell someone everything they learned in bootcamp and full time emploemtn and many horus of googling and many courses and tutorials. All they tell you is to go on stakc overflow and for me - activites have some one or some other student to ask how to do it when sstuck . its the getting unstuck that is priceless with boootcamps.  one aleterntiave is active pteachers and ta  s on udemy and other sites treehouse tehese actually work pretty good but most do not have immediate feedback.  Guided activites : ineractions with other studetns (netowrking etc) freecodecamp.org
 https://thimble.mozilla.org google
@@ -124,6 +129,8 @@ list of tags
 markup browser interprets to render the page 
 
 live-server
+icons brady stuff
+cubernetes
 
  Getting oriented with Chrome
  Google Dev tools (Also Mozilla )
@@ -360,7 +367,8 @@ Codewars
 
 Codility ( Click on lessons they score for BIG O so very useful compared to Codewars where any code wins BUT takes longer to solve each one and does not have the fun factor of Codewars
 
-
+front end weekly fb feed
+REACT NATIVE COMMUNITY FB GROUP react js
 MeetUps - free to join usually have food and coding time with a lecture - network, make friends, meet future business associates
 
 UtahJS
