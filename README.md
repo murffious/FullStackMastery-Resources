@@ -1,7 +1,10 @@
 IN PROGRESS - CHECK BACK LATER 
 
 # FullStackMastery-Resources
-   
+
+What advantage does a bootcamp really give over self taught ?
+If there were anyway to convince a person there is no need for a bootcamp I will find it. Imagine this: 1 year experience collecting everything and trying to tell someone everything they learned in bootcamp and full time emploemtn and many horus of googling and many courses and tutorials. All they tell you is to go on stakc overflow and for me - activites have some one or some other student to ask how to do it when sstuck . its the getting unstuck that is priceless with boootcamps.  one aleterntiave is active pteachers and ta  s on udemy and other sites treehouse tehese actually work pretty good but most do not have immediate feedback.  
+
 ### Purpose:  A guide to improving your skills in Full Stack Software / Web Devlopment.
 About me: After writing my first lines of code while taking a basic tutorial on Codecademy in January of 2017 it was about 1 year later when I was fully employed in a stable job as a Full Stack Software developer at a good wage. To do that I became proficient. Proficiency and Mastery are two different things so this guide is dedicated to the latter. To make Senior I must become a master at my craft. I set the goal to master my craft within 5 years and to become an expert.  Just doing my work each day is not going to be enough I thought so I made this project to help me and figured others would benefit as well. 
 
@@ -81,7 +84,7 @@ ctrl x
 
 
 HTML - code validation W3
- 
+Semantic HTML 
  Getting oriented with Chrome
  Google Dev tools (Also Mozilla )
 Copy the entire things by clicking copy outer html 
@@ -137,7 +140,11 @@ Udmey ( you should google coupons and most the time 10-12-15-19 dollar offers )
 Front End Masters - 
 
 Front End
+https://github.com/thedaviddias/Front-End-Checklist
 Back End
+
+Books 
+https://dev.to/radditude/devdiscuss-recommends-programming-books
 
 #Wokflow
 1. Text Editor
