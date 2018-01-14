@@ -1,5 +1,8 @@
 IN PROGRESS - CHECK BACK LATER 
 # FullStackMastery-Resources
+Learning how to program outside of school is increasingly common. A 2015 Stack Overflow (an online community of programmers) survey found 48 percent of respondents did not have a degree in computer science. 1
+
+Althoff, Cory. The Self-Taught Programmer: The Definitive Guide to Programming Professionally (p. 3). Triangle Connection LLC. Kindle Edition. 
 
 What advantage does a bootcamp really give over self taught ? Should I do a bootcamp or self teach ?
 If there were anyway to convince a person there is no need for a bootcamp I will find it. Imagine this: 1 year experience collecting everything and trying to tell someone everything they learned in bootcamp and full time emploemtn and many horus of googling and many courses and tutorials. All they tell you is to go on stakc overflow and for me - activites have some one or some other student to ask how to do it when sstuck . its the getting unstuck that is priceless with boootcamps.  one aleterntiave is active pteachers and ta  s on udemy and other sites treehouse tehese actually work pretty good but most do not have immediate feedback.  Guided activites : ineractions with other studetns (netowrking etc) freecodecamp.org
