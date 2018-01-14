@@ -374,3 +374,33 @@ We're 960 IoT Engineers and Entrepreneurs
 JavaScript Lecture Series
 We're 224 Members
 
+LEARNING most paid site haave speed control but if they dont or if you are watching youtube HTML5 Video Speed Control extension
+Lighthouse WesBos
+
+Deployment (platform) 
+Cloud foundry 
+heroku JAWSDB AWS elephant SQL - link some how the pdf if legal, digital ocean readme etc from devmtn
+
+skill: HTML structure style interactivity bridge to data AJAX JSON APIS SERVER REDisS  DATA STORE 
+client server with AJAX JS objects and JSON
+clean maintainable code TDD 
+error handling CRUD REST HTTP response codes 
+local storage redux persist 
+TDD
+RUby on rails - and tdd https://www.railstutorial.org/book
+python 
+C# Java most jobs (indeed)
+JADE EJS PHP server side templating handlebars 
+SQL sequelize massive ORM and contorller Model file structure 
+JWT.io and cookies sessions data persistence data flow data management - updating the view  interactive stuff that is it
+
+
+CLONE site :
+Page Ruler
+What Font
+ColorZilla
+FatKun or one like it image downloader ( checkout the file save options) 
+
+aglie Scrum - points poker cards voting sprints - standups 
+
+Search 15 jobs that you want and research learn all the technical skills desried for the postion but rember you can never know everything - mainly its the langauge 
