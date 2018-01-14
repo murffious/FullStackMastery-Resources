@@ -39,6 +39,7 @@ CTRL + D (esp useful remember to use Home and End keys to dynamically scroll to 
 CTRL + ?/ (after selecting a block of code this will comment or uncomment if commented out the whole block or line) 
 Save all 
 Code snippets
+! tab boilerplate
 for example 
 <li*  turns into <li 3x etc 
 
@@ -85,6 +86,11 @@ ctrl x
 
 HTML - code validation W3
 Semantic HTML 
+list of tags 
+markup browser interprets to render the page 
+
+live-server
+
  Getting oriented with Chrome
  Google Dev tools (Also Mozilla )
 Copy the entire things by clicking copy outer html 
@@ -98,6 +104,7 @@ Network . XHR
 all the images 
 scarpers 
 source
+box model  up and down arrow keys - can manipulate and chage the page how ever you like inclding repalcing images and chanign text 
 
 breakpoints 
 console. (front end code only) remember the clear conosle siymbooll and persist logs so you get the logs even when chanign pages which can be useful 
@@ -125,12 +132,35 @@ git checkout -b creates new branch fro one currently on - so use a development b
 git bisect 
 git remote -v 
 git pull
-git log
+git log . see commit number you can reset to a commit and checkout a commit so do it often
 git push --set-upstream origin nss-react-edit-billing
 
 PREtiter ES LINT
 WARNING PERSONAL SOAP BOX feel free to skip or not :
 if you ever heard the joke ... I did from my CTO and Senior and other Junior Devs 2 or 4 spaces so I did some reaserch and top repos use 2 and 4 there are pros and cons to each. My philosophy is that I could careless jsut let the comoaony decide and if you are that person to decide then literally flip a coin casue I really dont't think it matters. But I amy be shot for sayinga s such annd have been yelled at for real. The most important thing is to make sure you use technolgyo or software to do it for you or in my book y0ou are not a real programmer in fact aht is what wwe do is make things besiter autoemated sreamlined by telling computers to do work for us.  I promised myself when I learned about this debate I would never really get in the habit of hitting tab or spacces but when I hit CTRL S (save in your respective IDE ) the work would be done for you. 
+
+JavaScript - turnign arrays into strings and strings into arrays , sort , code wars specality lesson check list loop pusedo code 
+manipulation of DOM document.getELememtnBY Jquery lead in on the declilne but stil very useful 
+JShint code editor 
+JSON pretty print 
+
+CSS 
+block inline box model 
+SCSS SASS - atrucre varibleas mxin etc - link to 30 to know 
+study some cool sites and see what they use 
+30 selectors to restrict stlistic rulesets to certain elements in the DOm
+inheritence rulesets apply to decendents in the DOm unless overridden . cascading rukes, whihc rule takes precednce, 1, 0,1,1, point sysytme for classes ids etc 
+float- set wwidth for grid,  css grid bootstrap and other custom premde librairy grids and 
+flex box https://css-tricks.com/snippets/css/a-guide-to-flexbox/ https://www.w3schools.com/css/css3_flexbox.asp http://flexbox.help/
+Check each source google Flex box MDN  or FLex box W3 Schools with google fu stuff 
+fonts and sizes ypes em , px etc % 
+CSS lint  csslint.net 
+reset https://meyerweb.com/eric/tools/css/reset/ , normalize 
+responsive css - grid bootstrap etc media query and min max width stuff 
+GOtcha - collapse border for counting total css length width 
+
+how to clone a site 
+tinder clone site 
 
 
 Top paid learning sites and authors and recap
