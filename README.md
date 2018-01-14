@@ -1,5 +1,4 @@
 IN PROGRESS - CHECK BACK LATER 
-
 # FullStackMastery-Resources
 
 What advantage does a bootcamp really give over self taught ? Should I do a bootcamp or self teach ?
@@ -8,6 +7,11 @@ https://thimble.mozilla.org google
 code 360 and othr walkthrogh for coding challenges
 https://www.thebalance.com/best-places-to-learn-to-code-for-free-2071392
 that boot camp prep calss i have hackreactor
+1. finsih bootcamp review of whole flow demtn and Uof
+2. reorganzie my whole sturcture 
+3. being to fill in each section
+4. find somehow to get activites. 
+maek sure to link interview questions and mayeb take resources form devmtn reosource page 
 
 Codecademy. Chances are if you have looked into learning to code before, you've encountered Codecademy. ...
 Free Code Camp. ...
@@ -376,6 +380,7 @@ We're 224 Members
 
 LEARNING most paid site haave speed control but if they dont or if you are watching youtube HTML5 Video Speed Control extension
 Lighthouse WesBos
+A/B testing Jenkins CDIC automated testnig 
 
 Deployment (platform) 
 Cloud foundry 
