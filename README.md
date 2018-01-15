@@ -35,6 +35,163 @@ Khan Academy. ...
 MIT OpenCourseWare
 
 
+nginix open pathway for accesing thorugh a portal or - 
+
+webhooks
+
+SKILLS from my Dreams jobs:
+
+APPLE 
+Description
+Design and develop software architecture for large scale, multi-tier Apple Product Operations. Design and develop tools and dashboards used for Apple’s Operations organization. Design and develop large scale databases. Gather requirements from business users. Support production activities requiring database updates and release of new features for existing tools and dashboards. Perform code reviews. Redesign existing applications for better user experience involving performance and usability. Review hardware infrastructure planning and provide support when required for software upgrades.
+Education Details
+Bachelor’s degree or foreign equivalent in Computer Science, Mechanical Engineering, or related field and 10 years of progressive post-baccalaureate experience in the job offered or related occupation.
+Key Qualifications
+5+ years of hands-on experience with NoSQL database management systems: Splunk, ElasticSearch, Solr or similar as a developer or administrator.
+Solid understanding of modern Big Data principles, esp. in NoSQL domain as well as relational databases (e.g. MySQL, Oracle)
+Efficient programming capabilities in any of the following: Perl, Python, TCL or Makefile
+Web development with any of the following: PHP, Ruby, Python, JavaScript, XML, HTML, CSS
+Experience with data reporting and data visualization.
+Excellent communications skills and customer interfacing.
+Skill Desired Are
+Strong Java skills core java, jUnit and object oriented design and development.
+Spring core, spring boot, spring data and spring cloud. At minimum Spring core and Spring boot
+NoSQL and SQL DBs like MongoDB, HBase, Kafka and Big Data platform like Hadoop, Spark, Hive, Impala etc.
+Front end technologies. Preferred Skills: React JS, HTML4/5, CSS3, AJAX & JQuery (Nice to have)
+Exposure to Docker, Mesos, Marathon etc. (Nice to have)
+
+ADOBE FULL STACK 
+You love writing software
+You want to be responsible for the full lifecycle of a project: from user story breakdown, design, and git init, to implementation, testing, documentation, and maintenance
+You have an insatiable desire to simplify complex problems, and create an even simpler interface to the solution
+You enjoy building robust, scalable, fault-tolerant systems
+
+Must-haves
+Professional software development experience with any of the following languages: Go, Scala, Ruby, Python, C++, C, Erlang, Haskell, C#, Clojure, D, Elixir, F#, Java, Perl, Rust
+Excellent communication skills (we’re a geographically distributed team)
+Good API design skills
+Have written a HTTP API
+*nix and git experience
+Basic understanding of CAP theorem
+Really-nice-to-haves
+Open source contributions or projects
+Distributed systems experience
+Low-level systems or network programming experience
+AWS experience (“I've used the console” doesn’t count)
+Misc: Docker, CI/CD setup/operation, multithreaded programming, stability patterns
+
+We craft tools,processes, and workflows for teams; enabling Containerization, Clusterization, and Continuous Integration/Continuous Deployment (CI/CD).
+developing cloud-hosted (AWS), responsive, single page web applications using JavaScript, HTML5, CSS3
+5+ years of experience in developing cloud-hosted (AWS), responsive, single page web applications using JavaScript, HTML5, CSS3
+Experience architecting large-scale web applications in Vue, React, Angular or another comparable JavaScript frameworks
+Able to integrate with and manage APIs exposing micro services (REST, SOAP) including development and support of Java/JavaScript services.
+Experience with build tools (including Webpack, Gulp, Grunt), as well as transpiling, minification, concatenation and other build-time optimizations
+Knowledge of security concerns in web technology
+Knowledge of optimizing client side performance
+Strong testing discipline and experience using Jest, Jasmine, Karma, Selenium or another comparable testing framework
+Up-to-date knowledge of JavaScript design patterns as well as object oriented and functional design
+Familiarity with test-and-learn approaches using web and customer analytics data, and understanding how it drives development
+Exceptional front-end debugging skills
+Strong organizational and communication skills, both verbal and written
+BS degrees in computer science or equivalent experience
+
+
+Preferred Skills
+
+
+
+Test Driven Development (TDD), Continuous Integration (CI), Continuous Delivery (CD)
+Experience with Docker and other containerization technologies
+Java experience
+Experience with source code control, especially Git
+Experience with online commerce concepts and terminology
+Experience working with Agile methodologies (Scrum, Lean Startup, XP) and cross-functional teams (Product Owners, Scrum Masters, Developers, Designers)
+OTHER ADOBE 
+Design and develop microservice solutions at scale in a big data cloud platform.
+Solve complex business and technical problems involving large-scale data aggregation, workflow and reporting. Research and exercise proficiency with new technologies.
+Gain a solid understanding of the Adobe Analytics platform workflows and be willing to drive solutions that span across one or more cross-functional Engineering teams.
+Develop product enhancements and features with a strong focus on effective customer engagement and satisfaction.
+What you need to succeed
+M.S. or B.S. in Computer Science or equivalent field, and at least 3 years experience developing software.
+Solid object-oriented programming background in Java.
+Database programming knowledge including SQL and MongoDB.
+Experience building and scaling RESTful web services.
+Experience working in a Linux environment.
+Must be detail-oriented, self-motivated, responsive, professional and dedicated to customer success.
+Experience with building and deploying back end services platforms.
+Demonstrated ability to contribute to projects of varying complexity, including integration with other products and systems to identify areas of new feature development.
+Excellent interpersonal skills.
+
+lds church 
+The Church of Jesus Christ of Latter-day Saints is seeking a Web Software Engineer for the LDS.org team. 
+We are a large organization with many different teams. Our team delivers web apps across the world to over 130 languages and many cultures. The apps that we build support many of the key content products such as General Conference, the Scriptures, the History of the Church, and Youth websites. 
+The Web Development team for LDS.org uses leading edge technologies such as ES6, React/Redux, Babel, Post-css, Webpack, and are forward thinking to CSS-Grid, custom elements, ES6 modules, and other layout techniques. We train and support and build one another. 
+This individual works with divine guidance to provide or support technology that furthers the mission of the Church and reflects the eternal impact of the gospel. 
+Responsibilities 
+As Web Software Engineer you focus on front-end delivery of the products for your team. Your team will be responsible for utilizing and maintaining a templating framework using ReactJs / Redux. You will also be responsible to work in legacy codebase using HandlebarsJs and native JavaScript. Under the direction of the team lead you will help direct the agile development process and will have ownership of the quality of the front-end code. 
+
+To do this, you will need to:
+Develop with the React/Redux stack.
+Be comfortable using the latest tools and frameworks.
+Be active in knowing and understanding what is coming up in the front-end space.
+Build a positive work atmosphere by building coworkers and never tearing them down. This is an important one to us. We want everyone to have a voice and feel valued.
+Qualifications 
+3 to 4 years of experience in developing on the web.
+Understand Nodejs and be able to own the front-end server.
+The ability to break down high level requirements documents and designs and direct the front-end work of your team.
+Understand component driven development and build highly reusable component patterns.
+Good understanding of JavaScript.
+Build performant web apps and know how performance effects worldwide distribution of content.
+Understand Git and GitFlow.
+Bachelor's degree in a related field or equivalent experience.
+
+lds software engineer 4
+Skills 
+Solid understanding of basic computer science concepts of data structures, operating systems principles, computer languages, algorithms, and data storage
+You have the ability to follow the design and implement simple features of a system, including appropriate tests; able to design proper interactions between components to implement features
+Have strong analytical, problem solving, organizational, and detail oriented skills
+You need to be able to work on a team as well as individually in an adaptable, agile environment
+Solid experience using a database, including data creation and retrieval
+Demonstrated experience building production web applications and supporting APIs using the following technologies:
+JavaScript
+Git
+RESTful APIs
+JSON
+XML
+Server side technologies
+Bonus technical skills
+ReactJS
+HTML
+CSS
+XQuery
+Node.js
+MarkLogic or other NoSQL experience
+Localization and internationalization
+
+
+ANCESTRY .com software engineer
+Job Description
+Ancestry is looking for a talented Software Developer to help with the development of the Ancestry.com website and our migration to Amazon Web Services. You will be a key member of a team designing and developing the Ancestry home page, pedigree viewer, and more. We are an agile and close-knit team and the ideal candidate will be open to shifts in frameworks and development tasks, willing to assertively and collaboratively get things done, and most of all willing to learn new technologies.
+You will
+Convert webpages from C#/.Net to microservices using node.js.
+Analyze code for bottlenecks and performance issues, then design and implement solutions.
+Write excellent unit and integration tests
+Creating/managing REST API endpoints
+Qualifications
+2+ years of website development with Javascript
+Experience with Angular/React
+Experience with Node.js
+Bachelor's degree in related field required
+Understanding of an agile software development process, including object oriented analysis, design, and implementation
+Preferred Skills
+Experience developing and deploying cloud-based solutions
+AWS integrations including ECS, RDS, DynamoBD, and Lambda
+Creating and managing Docker-deployed applications
+Understanding of high-availability/fault-tolerance and caching techniques
+Understanding of design patterns
+Experience with Microsoft Visual Studio
+Understanding of Git source control
+
 ### Purpose:  A guide to improving your skills in Full Stack Software / Web Devlopment.
 About me: After writing my first lines of code while taking a basic tutorial on Codecademy in January of 2017 it was about 1 year later when I was fully employed in a stable job as a Full Stack Software developer at a good wage. To do that I became proficient. Proficiency and Mastery are two different things so this guide is dedicated to the latter. To make Senior I must become a master at my craft. I set the goal to master my craft within 5 years and to become an expert.  Just doing my work each day is not going to be enough I thought so I made this project to help me and figured others would benefit as well. 
 
