@@ -398,6 +398,9 @@ truthy falsy null etc
 url encoded json stinrgify etc  json parser  - consume  - that link about data types 
 and my link to prts and so forth from wiki 
 
+fabric.js- canvas library 
+programmable web
+
 COMPUTER knowledge :
 https://en.wikipedia.org/wiki/Port_(computer_networking)
 https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
