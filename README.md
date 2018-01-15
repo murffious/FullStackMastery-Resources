@@ -491,6 +491,17 @@ Lynda.com (check your local library if they offer a free subscription mine does)
 Udmey ( you should google coupons and most the time 10-12-15-19 dollar offers ) 
 Front End Masters - 
 
+Cron
+http://www.adminschoice.com/crontab-quick-reference
+*     *     *   *    *        command to be executed
+-     -     -   -    -
+|     |     |   |    |
+|     |     |   |    +----- day of week (0 - 6) (Sunday=0)
+|     |     |   +------- month (1 - 12)
+|     |     +--------- day of        month (1 - 31)
+|     +----------- hour (0 - 23)
++------------- min (0 - 59)
+
 Front End
 https://github.com/thedaviddias/Front-End-Checklist
 Back End
