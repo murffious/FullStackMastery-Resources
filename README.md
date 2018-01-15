@@ -675,6 +675,9 @@ Codewars
 
 Codility ( Click on lessons they score for BIG O so very useful compared to Codewars where any code wins BUT takes longer to solve each one and does not have the fun factor of Codewars
 
+Datastore 
+https://try.redis.io/ used for cahcing a lot
+
 front end weekly fb feed
 REACT NATIVE COMMUNITY FB GROUP react js
 MeetUps - free to join usually have food and coding time with a lecture - network, make friends, meet future business associates
@@ -782,3 +785,17 @@ FatKun or one like it image downloader ( checkout the file save options)
 aglie Scrum - points poker cards voting sprints - standups 
 
 Search 15 jobs that you want and research learn all the technical skills desried for the postion but rember you can never know everything - mainly its the langauge 
+
+
+FORMAT 
+TABLE 
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
+In the words of Abraham Lincoln:
+
+> Pardon my French
+
+https://help.github.com/articles/basic-writing-and-formatting-syntax/
