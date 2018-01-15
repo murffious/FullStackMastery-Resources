@@ -1,4 +1,8 @@
 IN PROGRESS - CHECK BACK LATER 
+1. been to a boot camp and want to porgess asa developer(that's me)
+2. considering a bootcamp and wondering what will be taugt
+3. want to be a self taught programmer 
+4. got or getting a cs degree and want to learn about full stack web dvelpoemtn 
 # FullStackMastery-Resources
 Learning how to program outside of school is increasingly common. A 2015 Stack Overflow (an online community of programmers) survey found 48 percent of respondents did not have a degree in computer science. 1
 
@@ -190,10 +194,26 @@ WARNING PERSONAL SOAP BOX feel free to skip or not :
 if you ever heard the joke ... I did from my CTO and Senior and other Junior Devs 2 or 4 spaces so I did some reaserch and top repos use 2 and 4 there are pros and cons to each. My philosophy is that I could careless jsut let the comoaony decide and if you are that person to decide then literally flip a coin casue I really dont't think it matters. But I amy be shot for sayinga s such annd have been yelled at for real. The most important thing is to make sure you use technolgyo or software to do it for you or in my book y0ou are not a real programmer in fact aht is what wwe do is make things besiter autoemated sreamlined by telling computers to do work for us.  I promised myself when I learned about this debate I would never really get in the habit of hitting tab or spacces but when I hit CTRL S (save in your respective IDE ) the work would be done for you. 
 
 JavaScript - turnign arrays into strings and strings into arrays , sort , code wars specality lesson check list loop pusedo code 
+https://github.com/AllThingsSmitty/must-watch-javascript
+https://github.com/getify/You-Dont-Know-JS
+
+PRE MADE THEMES FREE 
+https://github.com/JSLancerTeam/crystal-dashboard
+portfolio sites bootstrap (my cpmsny buuy a theme and we se it so styling has become this way for m any companies ) working with these themes teh n is a skills
+
+that store i found 
+materilaize demos and opensource stuff 
+
 TOp - reduce, map- used a ton, isArray typeof isNan, itHasOqn Propety , for in , for of 
+interval stuff
+index of
+module.exports in orms
 manipulation of DOM document.getELememtnBY Jquery lead in on the declilne but stil very useful 
 JShint code editor , js lint.org - validator - usually done by some extension in vs code or IDe but still can be useful to isolate the expereince. 
-JSON pretty print 
+JSON pretty print  - commhnicating with jSOn objects between computers maybe by http stuff -
+
+go daddy google sites getting a domian name - git hub pages , surge free options ZEIT 
+
 V8 engine
 mozilla servo js runtime rust paralellism
 chakra
@@ -202,7 +222,59 @@ Interactiviy - dynamic websites manipulating the DOM, listeners for event handli
 Jquery - some unique powerful selectors , abstracts some of the difficulties in maniputalitng the DOM
 callback allow for sequenceing asynchoromnous events 
 examples: an app that allows a user to input comments - , clearing the input box, making the enter key do something - fading in new comment 
- 
+JS objects : collection of mulitiple variables that are usually related in some way 
+truthy falsy null etc 
+url encoded json stinrgify etc  json parser  - consume  - that link about data types 
+and my link to prts and so forth from wiki 
+
+COMPUTER knowledge :
+https://en.wikipedia.org/wiki/Port_(computer_networking)
+https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
+https://en.wikipedia.org/wiki/Media_type Files types JSON form-data url encoded three I have sen the most 
+
+DEV TOOLS 
+POSTMAN and things like SWAGGER 
+
+hints VSCODE OR NPM sections or soemthing package JSON - dev dependencies 
+
+
+FULL server stack
+redis mongo db
+
+
+git hib and git tutotil part 
+SSH keys and commands 
+config 
+
+dev envriroment - DOCKER - help us bootstrap teh development processs - create a clear separation between the client and the server 
+APIS 
+https://www.programmableweb.com/category/all/apis
+
+
+resources 
+http://shop.oreilly.com/product/0636920030621.do reference htis books
+packt 
+http://www.oreilly.com/web-platform/free/
+
+Vagrant
+Virtual BOx  virtual machine 
+putty 
+
+compuer basics with port stuff and ip address internet basics 
+localhost : port 
+
+server - serves up to clients  FTP - browser interprets HTML CSS JS 
+http creata server stuff 
+node mouuels what are they - import access no path 
+environments varibles : node process.env 
+.env files 
+
+secrutiy sessentials 
+.gitignore node moduels dS stroe config files 
+
+server or soemting 
+https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+
 handling events - like click 
 debugging tips: variables defined as expected - data being transferred properly 
 replit , googel chorm console , 
@@ -254,6 +326,17 @@ Back End
 
 Books 
 https://dev.to/radditude/devdiscuss-recommends-programming-books
+cousera
+Jennifer Widom Stanford Univeristy on databases
+Databases systems : the compdalete Book
+seven databases in seven weeks
+dialects of sql keyword
+
+hoisting 
+command space bar on mac 
+acitivty monitor mac  and system montior on ubuntu and task maagner on windows for non techy people they need to know about this for killing all servers like serach for node under processes and kill delete end or force quit. 
+
+
 
 #Wokflow
 1. Text Editor
@@ -311,6 +394,7 @@ LevelUpTuts
 
 PULIC APIS and more
 free photos sites
+cross orign and security stuff = networking and other full stack wierdness
 
 Blogs
 Medium
@@ -392,6 +476,14 @@ It enough time in a boot camp or if you are preparing for a boot camp and honest
 Front-end frameworks and Single Page Web Applications (SPA)
 https://stackoverflow.blog/2018/01/11/brutal-lifecycle-javascript-frameworks/?utm_content=buffer9e8de&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
 
+Each javascript library or frameowrk would have its own verson of this so google your :
+REACT 
+https://github.com/enaqx/awesome-react
+
+
+HOSTING 
+https://github.com/DevMountain/Hosting-demo-postgres
+https://github.com/MeganMFisher/herokuHosting
 Trends and Latest Tech (good for ideas and knowing what is out there currently on the cutting edge)
 https://techcrunch.com/
 Fast Company 
@@ -400,6 +492,23 @@ Soend 1-2 hours going over all the best rated websites in the world to see what 
 
 https://www.codingame.com/start
 
+
+BUILD ALMOST ANYTHING
+native apps 
+desktop apps 
+WEB APPS (progressive web apps) link to goolge one
+
+
+INTERVIEW - just google something soemthinig interview questions and you could spend months going through all the availblable stuff - codility answers
+sudoku - OOP stuff from my excel notes 
+https://github.com/kdn251/interviews
+https://github.com/thezelus/code-problems
+https://github.com/murffious/front-end-interview-questions
+https://github.com/murffious/Front-end-Developer-Interview-Questions
+https://github.com/murffious/awesome-interview-questions
+
+OTHER RESOURCES 
+https://github.com/mtdvio/every-programmer-should-know Basically 
 
 Coding Challenge sites - great for preparing for technical interviews also just for language masterty and FUN.
 Code Fighters
@@ -453,11 +562,41 @@ LEARNING most paid site haave speed control but if they dont or if you are watch
 Lighthouse WesBos
 A/B testing Jenkins CDIC automated testnig 
 
-Deployment (platform) 
-Cloud foundry 
+Deployment (platform) PaaS cloud comouting taking care of config and stuff for you
+class on AWS cert 
+Cloud foundry 60 day free trial 
+Nodjitsu
+micorsoft azure
 heroku JAWSDB AWS elephant SQL - link some how the pdf if legal, digital ocean readme etc from devmtn
 
-skill: HTML structure style interactivity bridge to data AJAX JSON APIS SERVER REDisS  DATA STORE 
+logs and status on your apps , updating and redeploying 
+
+I thin i bookmarked some cool infograpohcs cour my bookmarks one last time - and Udmey bootcamps 2 of them for topics 
+handling erros ajazz requests etc.  try catch async await 
+regional stuff 
+asp.net 
+
+
+MVC - orm framwork separating concerns( maintainable code - made up of many small parts that do one thing and do one thing well.) applications architexture- explain how this finaly cicked  MODEL like Mongoose  file controller files - dictates the design of database driven applications 
+MODEL abstracts the database 
+VIEW generated JSON of view 
+CONTROLLER interacts with the model, generates and send to the view
+router routes an http request to a controller action - server or index.js, app.get(route, action in cotroller)
+RESTFUL straighforward URLS with http verbs 
+
+REPEAT sections templating
+EJS Jade handlebars , mutsache etc 
+
+SKILLS list as metnioned in boo
+skill: HTML structure 
+style 
+interactivity 
+bridge to data AJAX JSON APIS 
+SERVER REDisS 
+DATA STORE 
+Client Side - Server side 
+video on how these work HTTP in general 
+
 client server with AJAX JS objects and JSON
 clean maintainable code TDD 
 error handling CRUD REST HTTP response codes 
