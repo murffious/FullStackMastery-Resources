@@ -55,15 +55,22 @@ Open up Issues and drg a photo from the Harddrive or whever into the box and cop
 ##### Skill: Workflow
 This is intended to be the first most basic steps> If something is unfamilar ebleive me you will not want to skip over it. I have sat next to a 7 year veteran Senior dev and he did not know some of these keys 
 Text Editor (IDE integrated development environment) - VS code is winning the fight according to some sources to be honest my personal opinoin is that overall its the easiet to use and is free. Webstorm is cool but cost moneya and has differnt hot keys and bascially is hard to learn from my epxerience people still using Sublime are jsut "don't want to change old shocoolers" which has its place for peopel that are really good and don't need more or new. If you want to use Sublime, Atom whatever then jsut google how to do all these things in that editor and you will be fine. But they all are great so that would be a worthwhile exericse.
-
+pro tip:
+Goal skill: be able to quickly move through all your files (code) find functions variables and their instances 
 CTRL is the same as using the command key on Mac
 CTRL + A Selects all
+CTRL + G Go To a line number
 CTRL + C ULTIMATE KEY OF ALL copy surprisingly high nuer of previous non coders dont reallu use this unless really good on a computer right lcik copy is super slow )
 CTRL + V Paste 
 SHIFT UP ARROW  move the line up or down not sure what this key is yet look it up
 CTRL + D (esp useful remember to use Home and End keys to dynamically scroll to end or beginning of the lines text dynamically)
 CTRL + ?/ (after selecting a block of code this will comment or uncomment if commented out the whole block or line) 
-Save all 
+Save all key bidnings etc config for es lint and js options etc
+CTRL + P file name search
+CTRl + SHIFT + F find all occurences in all files in workspace
+CTRL + Z
+CTRL + SHIFT + Z
+double click on file at top or left and it will have its own window if you don't dot his and click another file without editing it will disappear and the tab be overwrittn. also the text goes italic whne not clicked twice
 Code snippets
 ! tab boilerplate
 for example 
@@ -89,7 +96,8 @@ Beautify (says it works for React JSX but NOT that good )
 Snippets of any language so for example when I type ccc tab it creates the whle component boiler plate in React. 
 Jshint
 Emmet - code completion and snipppets 
-
+Can turn off temporarily 
+ config : file for workspace 
 
 INITIAL SET UP :
 INSTALLS 
