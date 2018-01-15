@@ -39,6 +39,13 @@ nginix open pathway for accesing thorugh a portal or -
 
 webhooks
 
+SPECAIL FILES
+.env
+.config
+.gitignore
+docker yaml linte rc
+
+
 SKILLS from my Dreams jobs:
 
 APPLE 
@@ -238,6 +245,8 @@ Code snippets
 for example 
 <li*  turns into <li 3x etc 
 drag the file from the top open status to the terminal and it puts the exact path there useful for ruhnning node etc. 
+
+BOttm right click file type  GO and has al ot of these keys but its ont usuauolyll my first thoguht to go to each tab and go thorugh each one and knowing whtat it does and when to use it. 
 
 GUI for git - bottom left branches and start and plus sign 
 conflicts in purpole. 
