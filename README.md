@@ -789,6 +789,7 @@ Search 15 jobs that you want and research learn all the technical skills desried
 
 FORMAT 
 TABLE 
+
 | Command | Description |
 | --- | --- |
 | git status | List all new or modified files |
