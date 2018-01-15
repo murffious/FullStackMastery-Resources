@@ -677,10 +677,49 @@ Codility ( Click on lessons they score for BIG O so very useful compared to Code
 
 Datastore 
 https://try.redis.io/ used for cahcing a lot
+/etc/init.d/redis-server stop
+
+http://70256fa8.ngrok.io/ 
 
 front end weekly fb feed
 REACT NATIVE COMMUNITY FB GROUP react js
 MeetUps - free to join usually have food and coding time with a lecture - network, make friends, meet future business associates
+
+SWAGGER
+npm run swagger.edit
+
+LINUX
+sudo chown -R pmurff:pmurff Security.js
+sudo apt install
+Sudo chmod a+x filepath  turns into execetuable 
+Sudo ./filepath
+
+
+DOCKER
+docker exec -it tdapinodejs_api_1 /bin/bash  get into docker to liek do pm install a new module on the fly
+docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}'  nss_phpfpm_1 replace last part
+docker-compose -f docker-compose.dev.yml up --build
+docker-compose rm && docker rmi -f $(docker images -q) && docker rm -f $(docker ps -aq)
+this will kill all your docker instances so you can rebuild them with the new modules
+
+AJAX pacakges
+CURL right from command line
+request 
+SA
+
+Ps aux | grep node  sudo kill port   sudo p kill 
+
+VIM
+sudo vim ~/.bashrc   export FRONT_END_PORT=3005
+sudo vim /etc/hosts
+
+INtgeresting tech I cam across in real use 
+Buffers -something to do with strings binary and so forth
+https://docs.nodejitsu.com/articles/advanced/buffers/how-to-use-buffers/
+
+OOP Design
+https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
+https://code.tutsplus.com/tutorials/inheritance-and-extending-objects-with-javascript--cms-29836
 
 UtahJS
 We're 2,444 JavaScriptafarians
