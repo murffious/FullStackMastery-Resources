@@ -120,6 +120,7 @@ fg
 killall node 
 killall -9 npm
 ipaddress stuff 
+up key goes to last item and !! also repeats last command (this is very handy) down goes back down the line- Caution CTRL C stops the prcess from working so you have to use the mouse to copy and paste code 
 
 
 Git HUb or bitbucket 
@@ -189,16 +190,38 @@ WARNING PERSONAL SOAP BOX feel free to skip or not :
 if you ever heard the joke ... I did from my CTO and Senior and other Junior Devs 2 or 4 spaces so I did some reaserch and top repos use 2 and 4 there are pros and cons to each. My philosophy is that I could careless jsut let the comoaony decide and if you are that person to decide then literally flip a coin casue I really dont't think it matters. But I amy be shot for sayinga s such annd have been yelled at for real. The most important thing is to make sure you use technolgyo or software to do it for you or in my book y0ou are not a real programmer in fact aht is what wwe do is make things besiter autoemated sreamlined by telling computers to do work for us.  I promised myself when I learned about this debate I would never really get in the habit of hitting tab or spacces but when I hit CTRL S (save in your respective IDE ) the work would be done for you. 
 
 JavaScript - turnign arrays into strings and strings into arrays , sort , code wars specality lesson check list loop pusedo code 
+TOp - reduce, map- used a ton, isArray typeof isNan, itHasOqn Propety , for in , for of 
 manipulation of DOM document.getELememtnBY Jquery lead in on the declilne but stil very useful 
-JShint code editor 
+JShint code editor , js lint.org - validator - usually done by some extension in vs code or IDe but still can be useful to isolate the expereince. 
 JSON pretty print 
 V8 engine
 mozilla servo js runtime rust paralellism
 chakra
 js core safari
+Interactiviy - dynamic websites manipulating the DOM, listeners for event handling - after grabbing a DOM element, adding deleting elements hiding from the DOM
+Jquery - some unique powerful selectors , abstracts some of the difficulties in maniputalitng the DOM
+callback allow for sequenceing asynchoromnous events 
+examples: an app that allows a user to input comments - , clearing the input box, making the enter key do something - fading in new comment 
+ 
+handling events - like click 
+debugging tips: variables defined as expected - data being transferred properly 
+replit , googel chorm console , 
+
+http://api.jquery.com/category/selectors/
+http://youmightnotneedjquery.com/ this site give you an idea of how jQuery can help you and maybe even not use it 
+Arrays ,variables, objects, if else, loops 
+https://plugins.jquery.com/ PLugins liek colorbox 
+
+Styles and code clean maintainble - meaninglful varibel names and funciton names - ORM patters OOP
+comments : CSS HTML JS
+quotes single or double , escapes and mixing quotes 
+using small functions for testable pieces of code , modualrize 
+2-4 spaces 
 
 
+REFACTOR : Dry code - Don't repeat yourself - maps for example loops 
 CSS 
+hovers and oterh css greatness
 block inline box model 
 SCSS SASS - atrucre varibleas mxin etc - link to 30 to know 
 study some cool sites and see what they use 
@@ -210,8 +233,10 @@ Check each source google Flex box MDN  or FLex box W3 Schools with google fu stu
 fonts and sizes ypes em , px etc % 
 CSS lint  csslint.net 
 reset https://meyerweb.com/eric/tools/css/reset/ , normalize 
-responsive css - grid bootstrap etc media query and min max width stuff 
+responsive css - grid bootstrap etc media query and min max width stuff - https://foundation.zurb.com/ even have certs
 GOtcha - collapse border for counting total css length width 
+
+
 
 how to clone a site 
 tinder clone site 
@@ -314,6 +339,14 @@ jsbin
 React Native Tutorial ready for making tru digital app 
 
 
+INTERVIEW
+https://projecteuler.net/about Site with about 608 mathemtacil/compjuter programming challenges
+There are tons of books out there - I have found these to be recommended and range from beginner to advanced 
+JavaSciptr the good parts 
+david hermans effecgive Javascirpst 
+nick zackas maintainable Javasciprt 
+michale fogus functional programming 
+
 Most of all having fun while coidng is key. Any career guru would tell you taht and hapness specialist. If you hate code obviosly move on if not thoguht try thinking of 10 things you wish you could make or wished existed in tech and it can exicte you. 
 Laser like. Or something similar 
 
@@ -357,6 +390,7 @@ JavaScript in 30. Inputs free game class
 It enough time in a boot camp or if you are preparing for a boot camp and honestly to replace a boot camp for less than 150$
 
 Front-end frameworks and Single Page Web Applications (SPA)
+https://stackoverflow.blog/2018/01/11/brutal-lifecycle-javascript-frameworks/?utm_content=buffer9e8de&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
 
 Trends and Latest Tech (good for ideas and knowing what is out there currently on the cutting edge)
 https://techcrunch.com/
@@ -436,6 +470,12 @@ JADE EJS PHP server side templating handlebars
 SQL sequelize massive ORM and contorller Model file structure 
 JWT.io and cookies sessions data persistence data flow data management - updating the view  interactive stuff that is it
 
+NPM YARN BOWER 
+package manager 
+npm install  specific verisions approximate verisions
+package JSON (lock ) start scripts and other things
+nodemon 
+webpack, Gulp, task runners 
 
 CLONE site :
 Page Ruler
