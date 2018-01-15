@@ -237,8 +237,12 @@ Code snippets
 ! tab boilerplate
 for example 
 <li*  turns into <li 3x etc 
+drag the file from the top open status to the terminal and it puts the exact path there useful for ruhnning node etc. 
 
-GUI for git 
+GUI for git - bottom left branches and start and plus sign 
+conflicts in purpole. 
+CTTL + "~" open bottom tray with 4 optiosn . - mulitple terminals  
+problems with file on bottom bar
 
 Debugger for Node vs code
 breakpoints
