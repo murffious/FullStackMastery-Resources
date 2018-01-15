@@ -712,7 +712,7 @@ https://try.redis.io/ used for cahcing a lot
 /etc/init.d/redis-server stop
 
 http://70256fa8.ngrok.io/ 
-
+https://crontab.guru
 front end weekly fb feed
 REACT NATIVE COMMUNITY FB GROUP react js
 MeetUps - free to join usually have food and coding time with a lecture - network, make friends, meet future business associates
