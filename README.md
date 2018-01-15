@@ -408,6 +408,10 @@ POSTMAN and things like SWAGGER
 
 hints VSCODE OR NPM sections or soemthing package JSON - dev dependencies 
 
+EMAIL Service 
+nodemailer
+monkey something
+aws ses
 
 FULL server stack
 redis mongo db
