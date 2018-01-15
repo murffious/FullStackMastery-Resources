@@ -231,6 +231,7 @@ CTRL + P file name search
 CTRl + SHIFT + F find all occurences in all files in workspace
 CTRL + Z
 CTRL + SHIFT + Z
+ALT + UP or ALT +  DOWN moves the current line up or down on the page 
 double click on file at top or left and it will have its own window if you don't dot his and click another file without editing it will disappear and the tab be overwrittn. also the text goes italic whne not clicked twice
 Code snippets
 ! tab boilerplate
