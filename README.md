@@ -491,7 +491,7 @@ Lynda.com (check your local library if they offer a free subscription mine does)
 Udmey ( you should google coupons and most the time 10-12-15-19 dollar offers ) 
 Front End Masters - 
 
-Cron
+Cron https://crontab-generator.org/
 http://www.adminschoice.com/crontab-quick-reference
 *     *     *   *    *        command to be executed
 -     -     -   -    -
