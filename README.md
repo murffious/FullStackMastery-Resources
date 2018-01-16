@@ -485,7 +485,7 @@ CSS lint  csslint.net
 reset https://meyerweb.com/eric/tools/css/reset/ , normalize 
 responsive css - grid bootstrap etc media query and min max width stuff - https://foundation.zurb.com/ even have certs
 GOtcha - collapse border for counting total css length width 
-
+https://www.w3schools.com/w3css/w3css_cards.asp 
 
 
 how to clone a site 
