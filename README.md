@@ -551,6 +551,12 @@ https://www.youtube.com/watch?v=v4cd1O4zkGw
 Galye lots of them../? some okay better than oters
 Put the slide from Galye here 
 
+Principles of Debugging
+Error messages 
+finding out where the code stopped - this is easy most the time - its the bugs wehre you don't know this is the worst 
+once you find out where it stopped you can then debug for real.  10 most common erros. 
+knowing all variables in play 
+checking syntax and spelling (this I have learned is an error mostly made with beginners) good code editors can prevent most of this disodence
 
 TESTING 
 http://nibbler.silktide.com/
