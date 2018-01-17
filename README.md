@@ -1,6 +1,46 @@
 IN PROGRESS - CHECK BACK LATER 
 
+Let us repeat this again together: "Errors will be a fact of life."
 
+Do not let them discourage you. Do not let them bring you down. Do not let them make you quit.
+PRevnet BUGS clean code syntax style guide 
+Test Often
+DEBUGGING 
+isolate your attention to the lines of code closest to the feature that is broken. If clicking that button doesn't trigger a pop-up like you expected, look closely at the code associated with the button. Check your syntax carefully. Check how you've named things. Check your parenthesis. Check if you're capitalization is off.
+save - build webpack etc
+Reference Working Code
+check error mesasge 
+https://remysharp.com/2015/10/14/the-art-of-debugging
+
+TRELLO maybe in Agile sections ASANA
+After completing this pre-work module, you will have each of the following installed:
+
+Google Chrome
+Slack
+Visual Studio Code
+"Open in Browser" Visual Studio Code extension
+Git
+Git Bash (Windows)
+Terminal (Mac, Pre-Installed)
+Homebrew (Mac)
+Heroku Toolbelt
+Node.js
+MySQL Workbench   or POstgres PG admin or Sequel PRo
+MAMP
+In addition, you will also have accounts on each of the following websites:
+
+LinkedIn
+GitHub
+Stack Overflow
+Slack
+jazzy hjaj 
+Improving your Algorithms & Data Structure Skills Article
+Study hash tables and try to understand them on a deeper level. This data structure underlies objects in JavaScript (dictionaries in Python and hashes in Ruby).
+Understand how trees and graphs can be beneficial as data structures.
+Understand the basics of Big-O analysis so you don’t do silly things like create a nested loop 3 levels down if you don’t need to!
+Know when to use an object vs an array and understand the trade-offs.
+Learn why caching is so important when working with a large amount of data. Also learn the pros and cons of in-memory vs disk storage.
+Learn the difference between queues and stacks.
 SKILLS 
  
  https://github.com/matiassingers/awesome-readme
@@ -59,6 +99,7 @@ Static versus dynamic webpage advacned technologies
 http://www.typingtest.com/
 https://www.kongregate.com/games/ascott/typing-of-the-living-dead
 typing.io
+55 WPM or so but not going to kill you if its not
 
 ### Prerequisites
 
@@ -102,7 +143,8 @@ Preparing for a Bootcamp or learning on the side in college
 - FreeCodeCamp.org(https://www.freecodecamp.org/) - The boot camp I went to actually used exact activites for qualifiers 
 - Hack ractor challanges 
 Many code camps offer free prep course http://www.codesmith.io/learn-start
-
+https://www.codeschool.com/courses/front-end-foundations
+https://www.w3schools.com/html/html_intro.asp
 Some foundational CS and other Web Development Free Ciriculum 
 Coursera
 edX 2 courses from HArvard one on HTML and https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x also free on Itunes U (2 different years) and mosty on Youtube as well without goinig thorugh edX althoguh its free there too. with optional certificate for $90  https://www.edx.org/course/introduction-html-javascript-microsoft-dev211-1x-3
@@ -163,7 +205,16 @@ that boot camp prep calss i have hackreactor
 4. find somehow to get activites. 
 maek sure to link interview questions and mayeb take resources form devmtn reosource page 
 
+Livecoding.tv - Watch (and chat with) developers live as they code projects. Great for seeing the thought process of other developers. It's also fun to watch them struggle with bugs.
+TwitchTV - Programming - Similar concept as Li
 
+https://www.youtube.com/user/learncodeacademy
+https://www.youtube.com/watch?v=dAUncsVxdvo
+https://www.w3schools.com/css/css_intro.asp
+https://www.codeschool.com/courses/css-cross-country
+
+
+https://www.codecademy.com/learn/introduction-to-javascript
 
 ### Installing
 
