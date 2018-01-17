@@ -3,6 +3,20 @@ IN PROGRESS - CHECK BACK LATER
 2. considering a bootcamp and wondering what will be taugt
 3. want to be a self taught programmer 
 4. got or getting a cs degree and want to learn about full stack web dvelpoemtn 
+
+CDID 
+lighthouse
+nibber
+Paul Murff [7:21 PM] 
+https://sonarwhal.com/scanner/f9553ad9-1171-4c09-aa67-06624ab22002 (edited)
+paste url and get analysis
+
+[7:21] 
+https://rollbar.com/ (edited)
+
+
+[7:21] 
+https://www.sonarqube.org/ (edited)
 # FullStackMastery-Resources
 Learning how to program outside of school is increasingly common. A 2015 Stack Overflow (an online community of programmers) survey found 48 percent of respondents did not have a degree in computer science. 1
 
