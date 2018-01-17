@@ -10,7 +10,7 @@ video on how these work HTTP in general
 Table of Contents
 =================
 
-  * [Internet/Computer Basics](# Internet/computer basics)
+  * [Internet/Computer Basics](#Internet/Computer Basics)
   * [Screenshot](#screenshot)
   * [Installation](#installation)
         * [OR using Pathogen:](#or-using-pathogen)
@@ -60,7 +60,7 @@ Contributing to the community
 Been to 3 bootcamps. 1. Paid Immersive FT 12 hours day for 3 months. 2. udemy past bootcamp teacher made his own course 3. a University Supported Professional Coding Bootcamp. 4. BOoks on holisitc full stack Web develoment:  5. 1 year experince coding and want to make senior in at best 3 years and maximum 7 years. 
 
 
-## Internet/computer basics
+## Internet/Computer Basics
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
