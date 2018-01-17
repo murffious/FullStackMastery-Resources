@@ -13,6 +13,8 @@ video on how these work HTTP in general
 3. want to be a self taught programmer 
 4. got or getting a cs degree and want to learn about full stack web dvelpoemtn 
 Been to 3 bootcamps. 1. Paid Immersive FT 12 hours day for 3 months. 2. udemy past bootcamp teacher made his own course 3. a University Supported Professional Coding Bootcamp. 4. BOoks on holisitc full stack Web develoment:  5. 1 year experince coding and want to make senior in at best 3 years and maximum 7 years. 
+like tech and want to make up to 78-170 accoridng to google 
+
 
 Table of Contents
 =================
@@ -53,6 +55,10 @@ Contributing to the community
 ## Internet/Computer Basics 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Static versus dynamic webpage advacned technologies 
+http://www.typingtest.com/
+https://www.kongregate.com/games/ascott/typing-of-the-living-dead
+typing.io
 
 ### Prerequisites
 
@@ -63,7 +69,7 @@ Give examples
 ```
 
 <a name="Your-First-Code"></a>
-## Your First Code 
+## Your First Code and Laying a Programming Foundation
 Just a thought for the self-taught (i.e. not obtaining a university degree in CS):
 
 > Learning how to program outside of school is increasingly common. A 2015 Stack Overflow (an online community of programmers) survey found 48 percent of respondents did not have a degree in computer science. -Althoff, Cory. The Self-Taught Programmer: The Definitive Guide to Programming Professionally (p. 3). Triangle Connection LLC. Kindle Edition. 
@@ -71,11 +77,91 @@ Just a thought for the self-taught (i.e. not obtaining a university degree in CS
 What is programming ? 
 > Programming is writing instructions for a computer to execute. The instructions might tell the computer to print Hello, World!, scrape data from the Internet, or read the contents of a file and save them to a database. These instructions are called code. 
 
-For an example see this [Harvard CS 50 video](https://www.youtube.com/watch?v=KUB-aJXquUA) 17:45 -25:55. 
-Main take away: computers can only do exactly what you tell me to do, no more no less. So learn to be very detailed an specific.
+For an example see this [Harvard CS 50 video](https://www.youtube.com/watch?v=KUB-aJXquUA) WATCH: 17:45 -25:55. 
+Main take away: computers can only do exactly what you tell them to do, no more no less. So learn to be very detailed and specific.
 
- 
+Before writing any code even Harvard kids start out on [Scratch](https://scratch.mit.edu/) DO: Make a game or spend a few hours on [Hour of Code](https://hourofcode.com/us/learn). The main concepts you need to pick up on are statements(commands to the computer), loops(repeat something), conditions(like a fork in the road, if/else), Boolean Expressions(something is either true or false) and more.
 
+After having covered some basic coding concepts you are ready to write real code. You can now jump into learning for free on all of these sites:  Google and YouTube have thousands of tutorials. Here are some pretty good ones:
+
+Warning:https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance?language=en
+ Be committed - Not one person ever told me coding (also known as programming) was easy 
+ Be committed - Like leaning to speak a foriegn language coding requires study and practice and more practice 
+ Be committed - It takes time and diligence and consitency lots of struggle and stretching for most  nd
+ALWAYS BE CODING - once you learn a few concepts try to use it and play around make a folder called /sandbox and jsut make use of new things there. 
+SKILLS: Google Fu  Skill in using search engines (especially Google) to quickly find useful information on the Internet
+stack overflow with g - dont need to memorize everythign at first
+
+FULL STACK define 
+A Full-Stack Web Developer is someone who is able to work on both the front-end and back-end portions of an application. Front-end generally refers to the portion of an application the user will see or interact with, and the back-end is the part of the application that handles the logic, database interactions, user authentication, server configuration, etc. SO using the definitions above: Full Stack Web Development is writing the instructions for a web browser to interpret in order to render and make work a website on the internet. That includes what is known as back-end and front-end technologies as we learned above the client side and server side.
+
+Start with [Codecademy](https://www.codecademy.com/learn). You will need to register (it's free) then click into Web Development and bascially try to lick the top right to go to learn or catalog and start iwth HTML CSS and JavaScript or any language of choice. There are paid portions of the site but you can do a lot for free. The paid stuff includes quizzes and more activities. 
+
+Preparing for a Bootcamp or learning on the side in college
+- GA Dash. ...(https://dash.generalassemb.ly/) Totally awesome interactive activites to help you learn how to code right in ...your browser.
+- FreeCodeCamp.org(https://www.freecodecamp.org/) - The boot camp I went to actually used exact activites for qualifiers 
+- Hack ractor challanges 
+Many code camps offer free prep course http://www.codesmith.io/learn-start
+
+Some foundational CS and other Web Development Free Ciriculum 
+Coursera
+edX 2 courses from HArvard one on HTML and https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x also free on Itunes U (2 different years) and mosty on Youtube as well without goinig thorugh edX althoguh its free there too. with optional certificate for $90  https://www.edx.org/course/introduction-html-javascript-microsoft-dev211-1x-3
+Khan Academy (https://www.khanacademy.org/computing/computer-programming/html-css) - nice shorter videos and activiites, KHAN has videos on almost any topic so don't stop here. 
+MIT OpenCourseWare https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-171-software-engineering-for-web-applications-fall-2003/ has assingments and lots of course material 
+435 free courses on computer programming https://medium.freecodecamp.org/free-online-courses-cs-programming-june-2017-96a4207bb182
+Youtube - just google tpoic/tech of yoyur choice and see almost limetless possibliltes for free
+https://medium.freecodecamp.org/450-free-online-programming-computer-science-courses-you-can-start-in-september-59712e77635c
+Stanford http://online.stanford.edu/course/computer-science-101-self-paced
+https://learn.saylor.org/course/prdv251 found fro http://www.oeconsortium.org/ opportunites to learn free are limitless
+
+PAID - All(I think) have a free trail period. So hitting your free week or 10 days or month on each one can really get you going if you have a few hours per day. More popular way and a very good relatively cheap way 
+tree house 
+linked in  learning or lynda.com
+codeschool
+front end masters 
+
+
+
+
+## Initial Setup Installing the Basics to Code on your local computer
+Your ready to get coding you will need to set up yoru computer. I have used all three and found tutrials to have mixed results. So all iI can say is trial and error. Google one for your set up and good luck. So google HOW TO INSTALL ___ on LInux Mac OS Windows etc. 
+
+
+installs
+code editor git git bash for windows NOde 
+Heroku account 
+GIT HUB and or Bit bucket (private repositories i.e. cloubd based storage of code)
+
+
+
+
+
+
+
+
+
+
+
+More tech specific tutorials 
+scracth.io
+egghead 
+
+
+
+
+Codewars. ...
+
+What advantage does a bootcamp really give over self taught ? Should I do a bootcamp or self teach ?
+If there were anyway to convince a person there is no need for a bootcamp I will find it. Imagine this: 1 year experience collecting everything and trying to tell someone everything they learned in bootcamp and full time emploemtn and many horus of googling and many courses and tutorials. All they tell you is to go on stakc overflow and for me - activites have some one or some other student to ask how to do it when sstuck . its the getting unstuck that is priceless with boootcamps.  one aleterntiave is active pteachers and ta  s on udemy and other sites treehouse tehese actually work pretty good but most do not have immediate feedback.  Guided activites : ineractions with other studetns (netowrking etc) freecodecamp.org
+https://thimble.mozilla.org google
+code 360 and othr walkthrogh for coding challenges
+https://www.thebalance.com/best-places-to-learn-to-code-for-free-2071392
+that boot camp prep calss i have hackreactor
+1. finsih bootcamp review of whole flow demtn and Uof
+2. reorganzie my whole sturcture 
+3. being to fill in each section
+4. find somehow to get activites. 
+maek sure to link interview questions and mayeb take resources form devmtn reosource page 
 
 
 
@@ -213,26 +299,8 @@ https://www.sonarqube.org/ (edited)
 
 OS Linux ubutu Apple Unix1970 windows
 
-What advantage does a bootcamp really give over self taught ? Should I do a bootcamp or self teach ?
-If there were anyway to convince a person there is no need for a bootcamp I will find it. Imagine this: 1 year experience collecting everything and trying to tell someone everything they learned in bootcamp and full time emploemtn and many horus of googling and many courses and tutorials. All they tell you is to go on stakc overflow and for me - activites have some one or some other student to ask how to do it when sstuck . its the getting unstuck that is priceless with boootcamps.  one aleterntiave is active pteachers and ta  s on udemy and other sites treehouse tehese actually work pretty good but most do not have immediate feedback.  Guided activites : ineractions with other studetns (netowrking etc) freecodecamp.org
-https://thimble.mozilla.org google
-code 360 and othr walkthrogh for coding challenges
-https://www.thebalance.com/best-places-to-learn-to-code-for-free-2071392
-that boot camp prep calss i have hackreactor
-1. finsih bootcamp review of whole flow demtn and Uof
-2. reorganzie my whole sturcture 
-3. being to fill in each section
-4. find somehow to get activites. 
-maek sure to link interview questions and mayeb take resources form devmtn reosource page 
 
 Codecademy. Chances are if you have looked into learning to code before, you've encountered Codecademy. ...
-Free Code Camp. ...
-GA Dash. ...
-Codewars. ...
-Coursera. ...
-edX. ...
-Khan Academy. ...
-MIT OpenCourseWare
 
 
 nginix open pathway for accesing thorugh a portal or - 
