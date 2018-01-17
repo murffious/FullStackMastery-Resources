@@ -6,12 +6,25 @@ SKILLS
  https://github.com/matiassingers/awesome-readme
 video on how these work HTTP in general 
 
+# How to Become a Senior Full Stack Developer
 
+1. been to a boot camp and want to porgess asa developer(that's me)
+2. considering a bootcamp and wondering what will be taugt
+3. want to be a self taught programmer 
+4. got or getting a cs degree and want to learn about full stack web dvelpoemtn 
+Been to 3 bootcamps. 1. Paid Immersive FT 12 hours day for 3 months. 2. udemy past bootcamp teacher made his own course 3. a University Supported Professional Coding Bootcamp. 4. BOoks on holisitc full stack Web develoment:  5. 1 year experince coding and want to make senior in at best 3 years and maximum 7 years. 
 
-Table of Contents 
+Table of Contents
+=================
+
+  * [Internet/Computer Basics](#Internet/Computer-Basics)
+  * [Your First Code](#Your-First-Code)
+  
+  
+ Table of Contents 
 
 Internet/computer basics......Client Side - Server side
-your first code and places to learn for free or cheap fast
+Your First Code
 Initial Setup.......
 the coders workflow and dev environment.....
 WEB APP: HTML structure
@@ -36,26 +49,6 @@ W3 SCHOOLS AND OTHER ONES I HAVE FOUND
    CS101 -BIG O 
 Contributing to the community 
 
-
-
-
-### Internet/Computer Basics
-
-
-# How to Become a Senior Full Stack Developer
-
-1. been to a boot camp and want to porgess asa developer(that's me)
-2. considering a bootcamp and wondering what will be taugt
-3. want to be a self taught programmer 
-4. got or getting a cs degree and want to learn about full stack web dvelpoemtn 
-Been to 3 bootcamps. 1. Paid Immersive FT 12 hours day for 3 months. 2. udemy past bootcamp teacher made his own course 3. a University Supported Professional Coding Bootcamp. 4. BOoks on holisitc full stack Web develoment:  5. 1 year experince coding and want to make senior in at best 3 years and maximum 7 years. 
-
-Table of Contents
-=================
-
-  * [Internet/Computer Basics](#Internet/Computer-Basics)
- 
-
 <a name="Internet/Computer-Basics"></a>
 ## Internet/Computer Basics 
 
@@ -68,6 +61,21 @@ What things you need to install the software and how to install them
 ```
 Give examples
 ```
+
+<a name="Your-First-Code"></a>
+## Your First Code 
+In the words of Abraham Lincoln:
+
+> Learning how to program outside of school is increasingly common. A 2015 Stack Overflow (an online community of programmers) survey found 48 percent of respondents did not have a degree in computer science. 1
+
+Althoff, Cory. The Self-Taught Programmer: The Definitive Guide to Programming Professionally (p. 3). Triangle Connection LLC. Kindle Edition. 
+
+Programming is writing instructions for a computer to execute. The instructions might tell the computer to print Hello, World!, scrape data from the Internet, or read the contents of a file and save them to a database. These instructions are called code.
+
+Althoff, Cory. The Self-Taught Programmer: The Definitive Guide to Programming Professionally (p. 7). Triangle Connection LLC. Kindle Edition. 
+
+
+
 
 ### Installing
 
@@ -146,8 +154,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 
 
-
-
+state of Javascirpt here then go into librqires -
+https://stackoverflow.blog/2018/01/11/brutal-lifecycle-javascript-frameworks/?utm_content=buffer9e8de&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
 
 
 
@@ -200,13 +208,7 @@ https://rollbar.com/ (edited)
 [7:21] 
 https://www.sonarqube.org/ (edited)
 # FullStackMastery-Resources
-Learning how to program outside of school is increasingly common. A 2015 Stack Overflow (an online community of programmers) survey found 48 percent of respondents did not have a degree in computer science. 1
 
-Althoff, Cory. The Self-Taught Programmer: The Definitive Guide to Programming Professionally (p. 3). Triangle Connection LLC. Kindle Edition. 
-
-Programming is writing instructions for a computer to execute. The instructions might tell the computer to print Hello, World!, scrape data from the Internet, or read the contents of a file and save them to a database. These instructions are called code.
-
-Althoff, Cory. The Self-Taught Programmer: The Definitive Guide to Programming Professionally (p. 7). Triangle Connection LLC. Kindle Edition. 
 OS Linux ubutu Apple Unix1970 windows
 
 What advantage does a bootcamp really give over self taught ? Should I do a bootcamp or self teach ?
