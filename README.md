@@ -48,7 +48,7 @@ Contributing to the community
 
 
 
-### Internet/computer basics
+### Internet/Computer Basics
 
 
 # How to Become a Senior Full Stack Developer
