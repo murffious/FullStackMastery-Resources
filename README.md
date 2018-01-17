@@ -59,8 +59,8 @@ Contributing to the community
 4. got or getting a cs degree and want to learn about full stack web dvelpoemtn 
 Been to 3 bootcamps. 1. Paid Immersive FT 12 hours day for 3 months. 2. udemy past bootcamp teacher made his own course 3. a University Supported Professional Coding Bootcamp. 4. BOoks on holisitc full stack Web develoment:  5. 1 year experince coding and want to make senior in at best 3 years and maximum 7 years. 
 
-
-## Internet/Computer Basics <a name="Internet/Computer-Basics"></a>
+<a name="Internet/Computer-Basics"></a>
+## Internet/Computer Basics 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
