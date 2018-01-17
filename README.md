@@ -10,7 +10,7 @@ video on how these work HTTP in general
 Table of Contents
 =================
 
-  * [Internet/Computer Basics](## Internet/computer basics)
+  * [Internet/Computer Basics](# Internet/computer basics)
   * [Screenshot](#screenshot)
   * [Installation](#installation)
         * [OR using Pathogen:](#or-using-pathogen)
