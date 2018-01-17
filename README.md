@@ -7,15 +7,6 @@ SKILLS
 video on how these work HTTP in general 
 
 
-Table of Contents
-=================
-
-  * [Internet/Computer Basics](#Internet/Computer-Basics)
-  * [Screenshot](#screenshot)
-  * [Installation](#installation)
-        * [OR using Pathogen:](#or-using-pathogen)
-        * [OR using Vundle:](#or-using-vundle)
-  * [License](#license)
 
 Table of Contents 
 
@@ -58,6 +49,12 @@ Contributing to the community
 3. want to be a self taught programmer 
 4. got or getting a cs degree and want to learn about full stack web dvelpoemtn 
 Been to 3 bootcamps. 1. Paid Immersive FT 12 hours day for 3 months. 2. udemy past bootcamp teacher made his own course 3. a University Supported Professional Coding Bootcamp. 4. BOoks on holisitc full stack Web develoment:  5. 1 year experince coding and want to make senior in at best 3 years and maximum 7 years. 
+
+Table of Contents
+=================
+
+  * [Internet/Computer Basics](#Internet/Computer-Basics)
+ 
 
 <a name="Internet/Computer-Basics"></a>
 ## Internet/Computer Basics 
