@@ -64,15 +64,17 @@ Give examples
 
 <a name="Your-First-Code"></a>
 ## Your First Code 
-In the words of Abraham Lincoln:
+Just a thought for the self-taught (i.e. not obtaining a university degree in CS):
 
-> Learning how to program outside of school is increasingly common. A 2015 Stack Overflow (an online community of programmers) survey found 48 percent of respondents did not have a degree in computer science. 1
+> Learning how to program outside of school is increasingly common. A 2015 Stack Overflow (an online community of programmers) survey found 48 percent of respondents did not have a degree in computer science. -Althoff, Cory. The Self-Taught Programmer: The Definitive Guide to Programming Professionally (p. 3). Triangle Connection LLC. Kindle Edition. 
 
-Althoff, Cory. The Self-Taught Programmer: The Definitive Guide to Programming Professionally (p. 3). Triangle Connection LLC. Kindle Edition. 
+What is programming ? 
+> Programming is writing instructions for a computer to execute. The instructions might tell the computer to print Hello, World!, scrape data from the Internet, or read the contents of a file and save them to a database. These instructions are called code. 
 
-Programming is writing instructions for a computer to execute. The instructions might tell the computer to print Hello, World!, scrape data from the Internet, or read the contents of a file and save them to a database. These instructions are called code.
+For an example see this [Harvard CS 50 video](https://www.youtube.com/watch?v=KUB-aJXquUA) 17:45 -25:55. 
+Main take away: computers can only do exactly what you tell me to do, no more no less. So learn to be very detailed an specific.
 
-Althoff, Cory. The Self-Taught Programmer: The Definitive Guide to Programming Professionally (p. 7). Triangle Connection LLC. Kindle Edition. 
+ 
 
 
 
