@@ -24,31 +24,42 @@ the coders workflow and dev environment.....
 WEB APP: HTML structure
 WEB APP: STyle CSS Bootstrap etc
 interactivity JS Jquery 
-JS frameworks libraries  tempalting (maybe extra section after servers ) lodash, stripe, shippo 
+JS frameworks libraries  tempalting (maybe extra section after servers ) lodash, 
 dev tools - grunt gulp webpack 
 bridge to data AJAX JSON APIS 
 SERVER REDisS NODe express STACKS  MERN MEAN SEAN
 DATA STORE 
 testing TDD
+stripe, shippo , 
 writing clean code maintainable, scalable
 Deployment (platform)
-OOP and ALgorithms
-CS101 -BIG O 
-CDIC some call this dev ops but with small companies like above QA testers real full stack and at small companies hanlde most of this if not the CTO or at leat Seniro waht i want ot be )
+CDIC some call this dev ops but with small companies like above QA testers real full stack and at small companies hanlde most        of this if not the CTO or at leat Seniro waht i want ot be )
 Mobile App development and desktop apps -
 SEO maybe as extra topic
-INterview questions and Career stuff 
+INterview questions and Career stuff
+pluralsight and certiifcations - free test https://medium.com/pluralsight/pluralsight-iq-free-assessments-fe2807c99518
+W3 SCHOOLS AND OTHER ONES I HAVE FOUND 
+   OOP and ALgorithms
+   CS101 -BIG O 
+Contributing to the community 
 
-
+Learn http://underscorejs.org/ OR https://lodash.com/  Typescript http://www.typescriptlang.org/Tutorial
 my comments,
 content
 useful links and books:
+challange or activtiy like writing the same app in 2-3 langauges 
 
+DEVNOTES.md
+Make something new.  It doesn’t have to be innovative.  You’re not starting a business, so clone, copy, repeat, show your dev skills not your product brainstorming skills.
+make a toy problems repo with your own comments and notes conists of copy paste your acnswer and problems form popular sites with psuedo code or comments
+
+STUFF to DO - ongoing 
+form a group for a group project practice working in teams
 
 JS timers, JS contructors 
 DS Firebase SQL - sequelize MOngo Mongoose 
 
-
+https://github.com/haseebr/competitive-programming/blob/master/Materials/The%20Algorithm%20Design%20Manual%20by%20Steven%20S.%20Skiena.pdf
 
 https://github.com/iteles/Javascript-the-Good-Parts-notes
 tip  TAB word completion in vs code and terminal or start typing and select from list - hover over something vs code 
