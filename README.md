@@ -4,6 +4,68 @@ IN PROGRESS - CHECK BACK LATER
 3. want to be a self taught programmer 
 4. got or getting a cs degree and want to learn about full stack web dvelpoemtn 
 
+Been to 3 bootcamps. 1. Paid Immersive FT 12 hours day for 3 months. 2. udemy past bootcamp teacher made his own course 3. a University Supported Professional Coding Bootcamp. 4. BOoks on holisitc full stack Web develoment:  5. 1 year experince coding and want to make senior in at best 3 years and maximum 7 years. 
+
+
+
+SKILLS 
+ 
+ 
+video on how these work HTTP in general 
+
+
+
+
+Table of Contents 
+Initial Setup.......
+Internet and computer basics......Client Side - Server side
+your first code 
+the coders workflow and dev environment.....
+WEB APP: HTML structure
+WEB APP: STyle CSS Bootstrap etc
+interactivity JS Jquery 
+JS frameworks libraries  tempalting (maybe extra section after servers ) lodash, stripe, shippo 
+dev tools - grunt gulp webpack 
+bridge to data AJAX JSON APIS 
+SERVER REDisS NODe express STACKS  MERN MEAN SEAN
+DATA STORE 
+testing TDD
+writing clean code maintainable, scalable
+Deployment (platform)
+OOP and ALgorithms
+CS101 -BIG O 
+CDIC some call this dev ops but with small companies like above QA testers real full stack and at small companies hanlde most of this if not the CTO or at leat Seniro waht i want ot be )
+Mobile App development and desktop apps -
+SEO maybe as extra topic
+INterview questions and Career stuff 
+
+
+my comments,
+content
+useful links and books:
+
+
+JS timers, JS contructors 
+DS Firebase SQL - sequelize MOngo Mongoose 
+
+
+
+https://github.com/iteles/Javascript-the-Good-Parts-notes
+tip  TAB word completion in vs code and terminal or start typing and select from list - hover over something vs code 
+
+“The art of readable code” (Boswell, Foucher). The fundamental theorem of readability : code should be written to minimize the time it would take for someone else to understand it !
+Things you can do to imporve your code:
+picking good names,(semantic meaningful names)  
+writing good comments
+formatting your code neatly (clean use of whitespace)
+
+Linting — prevent bugs by not writing wrong code
+In development, this is linting. Linters are software that analyses your code while you write it. It executes the partial code in the background and tells you when something is wrong. In the past you needed to install and configure linters yourself. These days, many come as extensions to editors with preconfigured rules. Rules that are the result of years of experts arguing and finding a consensus what makes sense. Google’s developer tools in Chrome give you similar insights. Reading through the results of linters is a good learning exercise. They not only tell you that something is wrong, but also why, what the effects are and how to fix it.
+
+This editor is open source and comes with hundreds of extensions to help you with your tasks. It has linting built-in and allows for setting breakpoints in the editor itself. It contains a command line interface to do more hard-core tasks and has Git version control built in. There is something great about not having to jump from editor to browser to terminal.
+
+
+
 CDID 
 lighthouse
 nibber
