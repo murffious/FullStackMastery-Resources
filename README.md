@@ -43,6 +43,17 @@ Learn why caching is so important when working with a large amount of data. Also
 Learn the difference between queues and stacks.
 SKILLS 
  
+ 
+ TRENDS 
+ https://academind.com/learn/web-dev/trends-2018/?utm_content=educational&utm_campaign=2018-01-18&utm_source=email-sendgrid&utm_term=13952972&utm_medium=756150
+ 
+ web comopnetns liek stencil reusable cusotm izable valinna js  custom  not only used in those frmawoeokeds
+ react vue angular  angagiong web apps interactive manage state - thecniques fo rspeed and UX , routing 
+ static web pags - The answer are Static Page Generators like Jekyll, Hugo or projects like Nuxt.js for Vue.js (it's inspired by Next.js for React). All these tools and projects allow us to do one thing: Build web pages that we then pre-render on our local server or some build server. We then deploy a bunch of static files - HTML, CSS and JavaScript. Done!
+ PWA google io web tech to build mobile app like xperinces offline support on an d on no tinstalled at app store - #1 reach hard to find new apps - web search can find it - uses service workers 
+ server less apps  -let AWS maange sacalbitly 
+ AI bots -AI is a broad field though. You can dive into Python, Machine Learning, Big Data, Deep Learning and building AI tools yourself. If you master all of that, you'll have golden times ahead of you ;).Consider tools like AWS Lex, a service that allows you to build intelligent chat bots which you can implement into your page. Tools like this make AI accessible to all of us and allow you to focus on your idea and business logic.
+ 
  https://github.com/matiassingers/awesome-readme
 video on how these work HTTP in general 
 
