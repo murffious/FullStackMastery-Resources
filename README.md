@@ -2,6 +2,9 @@ IN PROGRESS - CHECK BACK LATER
 
 Let us repeat this again together: "Errors will be a fact of life."
 
+put int trends area SKILLS: LEGACY CODE UPGRADES  courses etc. Angular 1.5 to 2.0  older Re3act to new stuff - Php to react is proplaur right now or Vue - build same project in diffen langauges - show employers
+
+
 Do not let them discourage you. Do not let them bring you down. Do not let them make you quit.
 PRevnet BUGS clean code syntax style guide 
 Test Often
