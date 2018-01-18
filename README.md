@@ -530,14 +530,22 @@ HArvard CS 50 calss either year or latest one edx HTML class as well free Udemy 
 
 https://javascript30.com/
 http://blog.discudemy.com/used-js-framework-udemy-courses-free-worth-2000-45-coupons/
+https://codecard.io/
+https://accounts.topcoder.com/member/registration They have really good articles like this one https://www.topcoder.com/community/data-science/data-science-tutorials/sorting/
 
+leetcode
+TAB autocomplete in terinal and code enter select 
 
 Making cool README
 http://www.screentogif.com/
 
+https://sso.teachable.com/secure/89794/users/sign_up?after_success_url=%2Fsecure%2F89794%2Fcheckout%2F200449%2Fhack-reactor-prep
+
 https://guides.github.com/features/mastering-markdown/
 https://help.github.com/articles/about-readmes/
 Open up Issues and drg a photo from the Harddrive or whever into the box and copy the link that auto generates that will display a real photo 
+
+https://cloud.digitalocean.com/login
 
 ##### Skill: Workflow
 This is intended to be the first most basic steps> If something is unfamilar ebleive me you will not want to skip over it. I have sat next to a 7 year veteran Senior dev and he did not know some of these keys 
@@ -580,6 +588,11 @@ smart step blackboxing not into dependencies my code only
 restart stackframe
 column breakpoints on cahined on eline functions 
 chrome and node in vs code seemlessly debug back end node and front end two runtimes
+
+AUTH 
+[passport-with-sequelize-and-mysql](https://code.tutsplus.com/tutorials/using-passport-with-sequelize-and-mysql--cms-27537)
+karma.js
+nightmare.js
 
 % key extentions for VS CODE 
 Prettier - use a config as such
