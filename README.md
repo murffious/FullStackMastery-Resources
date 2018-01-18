@@ -1,4 +1,11 @@
 IN PROGRESS - CHECK BACK LATER 
+2 Purposes of this document. I accept contructive fedback and plan on the great resource of oter devs citirazizqking what I am trying to do here and admitting this has almost certanly been done before maybe even better but by doing this I am becoming 
+1. Devs looking for mastery of their craft with the goal to be a Senior Full stack Developer (That is me)
+ although some of this will not be new its the holistic nature of the read me that may help and follow thorugh on mastery of chosen  
+2. Someon who is wondering if they shoud do a bootcamp, self teach how to code. and if so where to start. 
+
+
+DYNAMIC is the key to everything : what does hardcode mean - static it means that - so DATA FLOW for indiivual itemized dat from large amoutn saray of it dbs fulkl of it .  So the process is ussually to"hack it togheth" wiht hardcoded single use data modeled after the real data.  tehn integrate the data. Get one thing working at a time. MVP for projects. 
 
 Let us repeat this again together: "Errors will be a fact of life."
 
