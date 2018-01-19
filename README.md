@@ -2,6 +2,8 @@
 odays notes for book
 git hiub is messng up my posts 
 
+ask for activites startere code for studetns learners to use SOVED and UNSOVLED folders and any applicale images sites giphy 
+
 back end design passing argumaetns around. that is where the magic happens. 
 what does thi tell y9ou that een pros use stackoverlfow 
 reqriting cod saving code snp0pets 
