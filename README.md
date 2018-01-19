@@ -1276,6 +1276,9 @@ API rate limits to keep in mind
 backend is all about passing arguaments around for the dynamic 
 also using orms to keep code dry and re use models MVC OOP - objects talkinng to each other 
 
+
+GIT PRO book git reset head rest url - git bisecct 
+follow up on interviews is very key . tell them ou loved the compnay and people esp and feel very confiend tin being able to get the code down ec and be aof value fast. 
 FORMAT 
 TABLE 
 
