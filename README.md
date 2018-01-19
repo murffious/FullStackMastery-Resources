@@ -277,7 +277,11 @@ GIT HUB and or Bit bucket (private repositories i.e. cloubd based storage of cod
 
 
 
-
+DESIGN UI UX take a site form start to finsih skill iSaw 
+cloingn - extentions what I have leaqrned not to look ask fhelp  - prictice for taking form bsiness
+my experince creating admin tool , chagned sfor m business side we diwwgn they pass of . sometimes tehy data demands  alittel diffferen thcnagte.l not udnerstood byu business. 
+picasso inspecitin gstorkes 
+asking questoins abotu UI UX and be a user and ask questiosn. I can remeber them popluar sites when i n rome 
 
 
 
