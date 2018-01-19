@@ -28,6 +28,30 @@ Of course in hot spots like LA SF and NY , Seattle, BOston and so forth the wage
 http://www.businessinsider.com/highest-paying-jobs-in-america-2017-3/#-13
 Of course docotrs are highest paid and as well know have the most schooling. 
 
+
+Go through notes. 
+1. 2 different courses or more you learn tons from different perspectives 
+2. Hit job areas I posted in google docs at dev mtn 
+3. Coffee script make mown. Bag the HR one and use the one 
+Developing a love for technology. Look at how it helps our first of all. What problems does it solve.  Magazines to read 
+
+Get immersed. - FB groups. Essential first step. Forbsull imemrison 
+
+Publish on medium. Take notes. Bookmarks. Chrome extension speed up video. 
+Reference my video of Toyota com 
+2 things I have done. Then put his in my resume and list of things to write about and how to use trello. Or some other tool 
+
+
+Security 
+
+
+Maybe have a list at bottom to copy and paste into trello 
+Links to free bootstrap sites.
+
+
+Skill using boiler plate and also reading documenting. Ctrl F to find key words 
+
+
 It is always said that being a software developer is a lifelong learning affair. Since the trends and technologies get the expire ticket often in the software field, one should be ready to cope up with a sudden change. It is a continuous treadmill where relaxing is seldom a choice.
 Many software development & engineering jobs are flooding the current job market.
 Technically speaking it is not a standard set by the industry. It is an evolutionary facet of skills. A full stack developer always tries to learn open source technologies to apply them in his/her job. In my opinion, full stack development is a minimalistic(at least) combination of following things
