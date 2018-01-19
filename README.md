@@ -1,4 +1,75 @@
 ## Purpose Statement
+odays notes for book
+git hiub is messng up my posts 
+
+back end design passing argumaetns around. that is where the magic happens. 
+what does thi tell y9ou that een pros use stackoverlfow 
+reqriting cod saving code snp0pets 
+
+Job description
+
+ We are looking for a JavaScript Frontend Developer passionate about creating polished web applications with beautiful, well-designed UIs using the React library. Your primary responsibility will be the implementation of visual elements and their behaviors with user interactions. You will work with both Front-end and Back-end web developers to build all client-side logic. You will also be bridging the gap between the visual elements and the server-side infrastructure, taking an active role on both sides, and defining how the application looks and functions.
+
+
+Responsibilities:
+
+Develop new user-facing features using the React library.
+Build reusable, clean code with performance and simplicity in mind.
+Ensure the technical feasibility of UI/UX designs.
+Optimize applications for maximum speed and scalability.
+Requirements:
+
+B.S. degree in Computer Science
+Extensive experience with JavaScript.
+Experience with managing mobile responsive, complex Single Page Applications (SPA) and Progressive Web Applications (PWA).
+Strong understanding of React library best practices and conventions. 
+Good understanding of web markup, including HTML5 and CSS3.
+Excellent understanding of browser rendering behavior and performance.
+
+\APK SDK what is all that - deployemnt keys stuff and expo 
+go again thorugh all notes and bookmarks. maybe dev mtn links to css articles and such 
+and go thorugh uof u bootcmap and onine udemy ones too
+
+for ideas and links 
+maybe also the LYNDA com one too. 
+
+are you fully committed jason bourne gifphy - if you have not seen the movei I am sorry it wont make too much senes. but the point is he commits his whole life fully and loses his old self. that is just kinda what i mean. Cause it takes a full commmtiemetn 
+\
+
+
+Career job getting skills 
+Define what you want to be in life. So you know how to tackle opportunity when it comes without hesitation . Know who you are. It’s work to really know and know that you know   
+
+Jobs excel sheet and basically all the career help from ERS. Maybe even link it to free work shop. Also gayle and list of jobs sites and espoacsily zip recruiter. 1 click apply.  Pre written cover letter snippets to combine.  Learning. Smart love tech.   Numbers oriented. Do I have quantifiable pice if data or something to compare or set me apart in some way.  Less is more 2-3 bullet points. Action words like built api.    Portfolio site with projects and articles and. If you can Ta or Thor cause it’s abaically paid to learn all over again.
+
+
+[1:16] 
+Never turn down a job close or above your target income and tech stack
+
+two points of view. one dont get a job you hate then wiat for the next  job - but really if you  dont have  a cs degre or anyexpereince hoenlty I would totally base the decision on MONEY if its makes sense fo ryou finacially for you dont leave before 18 mopnths is up and then your workd is opend up 
+FDM gorup paiys to learn JAVA and tell baout them. get foot in door. and not be loogin for a job for 6-9 nmonths.  30-90 days if you do it right.  
+
+if you had a senior dev there. what woul.d y9ou ask them itsl iekly been asked before that is the key to find a smilar very simialr queston.  they have all been asked before (99%) lol so if you don;t find one titled wiht a simialr title to your question try reoqrding the quetion just a biut.  make sure to include the langauge and libariary and PRO tip on gogole you can filter the search rewstuls by time so as to not get too old of stuff altough stil can help you .  I gogoel noral first if stuff loosk too old then do a narrow time search but other people start mwith most recent then go back which works too I gues. 
+
+Love of technology . Here is one Podium screen shot. Cable. Tron matrix. If could plug you in that is what this is lie. But I am not gonna lie it’s still  hard work. 
+
+Author hate reading ?  I mean it’s possible to hate tech and still be a good coder this simple gut check not a catch all 
+
+Do the analogy.  Would you be a salesperson. If you absolutely hate being sold something ?  That’s what I did I love people too and tech now I get to do both. Cause really the end user are people. Making t hem happier more making heir lives better 
+
+Read book and articles of people you admire. See if you can find out how they came tod I what they did. It may dawn on yo as it did for me 
+
+Activity. What makes a great and I put specific question. Front end back end secretory. Kiley find someone with a master list 
+
+Shaq. Buys tons of apps. If you could write a blog. What would you do. I would have a business helping people like me get their ideas of f the ground 
+Signs you love tech.  It so much about programming and it is so you love tech and are you consider  you’re self smart. 
+
+Creative problem solver. Logical. 
+Senior makes sure it gets deployed 
+
+Mati x cable and it’s for the kids signs you love technology   
+
+Apk file
 
 DESIGN UI UX take a site form start to finsih skill iSaw cloingn - extentions what I have leaqrned not to look ask fhelp - prictice for taking form bsiness my experince creating admin tool , chagned sfor m business side we diwwgn they pass of . sometimes tehy data demands alittel diffferen thcnagte.l not udnerstood byu business. picasso inspecitin gstorkes asking questoins abotu UI UX and be a user and ask questiosn. I can remeber them popluar sites when i n rome
 https://www.justinmind.com/blog/online-ux-ui-courses-to-take-now-10-best-free-and-paid/ draw.io and maye photoshpp illustorr 
