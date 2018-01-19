@@ -1,21 +1,17 @@
 ## Purpose Statement
-First of all I am seeking a position as a Senior Fullstack Engineer aka Web developer/ Sotware Developer. I hope that this process and help from others through this document may lead to helpining me be a MASTER at my craft. If you are considering a coding bootcamp I highly recommend saving this document as it will come in great use to you I guarantee it. If you are studyinig comuter scinece or are curois about antyhitng aforementioned this is the right palce. This is mostly a reference doc with an app to follow eventually. My wish would be that someone find this useful for them becoming a Fullstack Sofftware develloper. 
+First of all I am seeking a position as a Senior Fullstack Engineer aka Web developer/ Sotware Developer. I hope that this process and help from others through this document may lead to helpining me be a MASTER at my craft. If you are considering a coding bootcamp I highly recommend saving this document as it will come in great use to you I guarantee it. If you are studyinig comuter scinece or are curois about antyhitng aforementioned this is the right palce. This is mostly a reference doc with an app to follow eventually. My wish would be that someone find this useful for them becoming a Fullstack Sofftware develloper. Be more direct here and simple with explanation after. Been to 3 bootcamps. 1. Paid Immersive FT 12 hours day for 3 months. 2. udemy past bootcamp teacher made his own course 3. a University Supported Professional Coding Bootcamp. 4. BOoks on holisitc full stack Web develoment:  5. 1 year experince coding and want to make senior in at best 3 years and maximum 7 years. I want to share the relazatively littel iI have learned but wish I knew more of when I started. Eveyrone that reads general psots out there on linked nin or caaeer stuf knows that Websd=veolopment is hot and growing so no better time to start tahn now. 
+
+HOW TO READ THIS DOCS: SKILLS in gray header - taken from a real job psoting for a full stack engineerany paragprah or is askill I have learned on the job or in a bootcamp.  lnger than 2 sentences are bascailly my subjective expereince and thoughts. I only want to share exactly what has been to me as helpful or things i have learned and think can be learned fsater if shared in this format. Be a proficeint develpoer quicker liek havng a cheat sheet. Also a holistic collection all in one place ehich can be dangerous since it contains so much but I am doing it anyways.Where I have been and help others get there quicker. I have learned a langege and now several computer alnguesa =. determination is key.  One thing I have never hear donce is that programmin is easy. High paying jobs as it is. Bacically this is more like a small book - VOCAB sections
 # Senior Full Stack Developer - (average salayr about 120k (plus or minus about 40k I have seen anywhere from 85 to 160) 
 *Avitivy One: Pick your top 10 companies you would work for.*  Gettting expereince at a lower tier company will help you get there.  Search those out on linked in for peoplpe that have those jobs in your 1st, 2nd or 3rd degree connections (go sign up now and add everuonen you know if you have not yet). Connect with them WITH a message for sure sayinig something easy going like whats it liek to work ther. INtorduce yourself aned say you'd love to connec ton linked in . Develop as many realtionship s as you can to widen you r network. Statistics for for getting a job due to netowrking "someone you know" is claimed to be the easiet or best way to get a job.  I have had little success with this but it has worked once. After selecting your 10 cmpanes reaching out to as many of the emplyees there as possible Sneior, jr. reecurieter,, maanger CTO anyone closly related to the job ando could help out.  I have found hiringn maangers names this way and then reached out to them on ilnkedd in etc. ANything helps in this regard. Even geteting interviews. The essentials include smart, passion for tech and a fierce creative porblem sover and team palyer. You cannot build great apps alone. like tech and computers. I would never count yourself out for age or past ecuation and experince. You now need to copy and paste all those job postings and see the common requiremetnes - the major ones. There is so much variety out ther you can NEVER know everything so accept that now.  Mainly knowing the core langauges and libraires are the key along with good problems solving skils and some other key skills. But is revloved around a languge. You specialize in a certain lanague or langauge set or even kow a few and become a master at a few. In the case of a full stack developer there are tons of lanauge. Right now I am a Javasciprt engieer who specailized in React Redux. and Node. with Mern known as a mern stack developer. So picking a tech stack you wantot specialize in the the first step.  Computer science knoweldge and technical challnege prowess and some sosft skills and culture fit assenstemten. This process is also known as "beginning with teh end in mind."  Also Knowing why and what you want is key in goal setting and life success. education level required: | B.S. Computer Science or equivalent experience 
 Major/Field of study: | Computer Science or related field | Years: Minimum 5 years 
 If youo are a CS major or grad. I am jealous I never thought about it in college for soem reaosn but did dabble with some free classes on app developmetn but Standfor Univierty. This documetn may help you if yu plan on going into Full Stack Web developerment or Javascirpt Enginner.  Those graduating in an realted filed Kudos to you you will have alsightly easier time finding a job on a relative scale form what I have seen. FOr the rest of us. we have to go off of Equivalent Experience.
-
+So ainly teh main purpose of this docs is to learn more about what I have foudn off of real job postings and and cpmapre contracst with teh 1 year exp and needs I haveseen there and 4 bootcamps 
 My goal: APple, Google, Symantec, Adobe, LDS Church, - 
 ###### SKILLS: netowrking (relationship building) 
-
-
-E 
-
-
-4. got or getting a cs degree and want to learn about full stack web dvelpoemtn 
-Been to 3 bootcamps. 1. Paid Immersive FT 12 hours day for 3 months. 2. udemy past bootcamp teacher made his own course 3. a University Supported Professional Coding Bootcamp. 4. BOoks on holisitc full stack Web develoment:  5. 1 year experince coding and want to make senior in at best 3 years and maximum 7 years. 
-
-
+```
+Give examples
+```
 
 Table of Contents
 =================
@@ -53,8 +49,11 @@ W3 SCHOOLS AND OTHER ONES I HAVE FOUND
 Contributing to the community 
 
 <a name="Internet/Computer-Basics"></a>
-## Internet/Computer Basics 
+## Internet/Computer/OS Basics 
 
+SKills Solid understanding of internet and IP communications protocols and formats such as TCP/IP, HTTP, XML, JSON, etc
+
+The fist question is how does the internet work ? https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm  Be sure to note teh resoureces section for further learnng.  if this psot from a Stanford Univeristy class does not help just Google it for 30 mins on Youtube and infographcs if you prefer. Again evertyhing in here is necesary knwoldeg for a ser=nior fullstack engineer if you want just the basics like preppring for a bootcamp maybe jsut spend 5 minutes on each of the more boring topics liek this one for  aorugh overview or better yet spend horus and don't even go to a bootcamp. Save the money. 
 
 COMPUTER knowledge :  Some of this information can seem tedious to pick but it does come in handy and I have talked to many developers who don't fully get all this. I think hte really good ones know this but most don't.  How many ports are there? 65000  - useful to know with server side tech 
 https://en.wikipedia.org/wiki/Port_(computer_networking)
@@ -62,10 +61,25 @@ https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
 https://en.wikipedia.org/wiki/Media_type Files types JSON form-data url encoded three I have sen the most 
 
 
-SKILL: Proficient in Linux/Unix and comfortable with Mac/Windows - taken from a real job psoting for a full stack engineer
+*SKILLs: Proficient in Linux/Unix and comfortable with Mac/Windows* - 
 OS 
 MAC Windows Linux
-Which one is best for a devleoper.  Well I think that is dependent on langauge and is subjective really.  The bust produccts are usually availble for all 3.  Mac comes with a better built in terminal bash than Windows and LInux comes pre installed with Python - I have seen on job psoting - experience with LInux as an actual skill, Windows has its own things like microsfot dev suite and you can get what is known as a virtual machine of windows - we may come backk to virtual machines later. Just  knwo the term. and know whatever your preference youo can still code.   some LInux basics - windwos mac in dev set up  
+Which one is best for a devleoper.  Well I think that is dependent on langauge and is subjective really.  The bust produccts are usually availble for all 3.  Mac comes with a better built in terminal bash than Windows and LInux comes pre installed with Python - I have seen on job psoting - experience with LInux as an actual skill, Windows has its own things like microsfot dev suite and you can get what is known as a virtual machine of windows - we may come backk to virtual machines later. Just  knwo the term. and know whatever your preference youo can still code.   some LInux basics - windwos mac in dev 
+Fe thinigs to know. the command key is usually interchagnelable with the CTRL key on Windows and linux keyboards
+LInux does not have a click install and is mostly run from the terminal - red hat stuff
+LInus is free and 
+*VOCAB: open source* 
+some basic commands run in the termial 
+
+sudo update
+sudo chown -R pmurff:pmurff Security.js
+sudo apt install
+Sudo chmod a+x filepath  turns into execetuable 
+Sudo ./filepath
+
+aadvanced conpcets
+Bash rc file
+export ports etc
 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -79,9 +93,7 @@ typing.io
 
 What things you need to install the software and how to install them
 
-```
-Give examples
-```
+
 
 <a name="Your-First-Code"></a>
 ## Your First Code and Laying a Programming Foundation
