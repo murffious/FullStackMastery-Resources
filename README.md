@@ -1,4 +1,41 @@
 IN PROGRESS - CHECK BACK LATER 
+
+SKILLS notes in BLUE are all taken from real job psotings, copy and pasted the skill as is on the post  as required skills to get a job in full stack javascirpt engineer or software enginner whihc is lots of the time a full stack dev. 
+
+full stack Node.js/React developer will be part of the team responsible for web-based applications (front and backend) to implement and support PayClip’s payment processing system. 
+
+Key Activities:
+1. 
+2. Contribute to team and organizational improvements in process and infrastructure 
+3. Build customer-facing UI and back-end services for payment processing administration and management 
+4. Effectively use tools and ingenuity to identify and fix defects before they become a problem 
+5. Invent new things and create world-changing software! 
+
+Education:
+Education level required: | B.S. Computer Science or equivalent experience 
+Major/Field of study: | Computer Science or related field 
+
+Technical knowledge required:
+1. Experience developing secure node.js applications and web services, OOD, MVC architecture, npm, github, and other principles of software engineering and design | Strong 
+2. Solid understanding of internet and IP communications protocols and formats such as TCP/IP, HTTP, XML, JSON, etc. | Strong 
+3. Proficient in Linux/Unix and comfortable with Mac/Windows | proficient 
+4. Experience with frameworks such as Angular, React, Express etc. | Strong 
+5. Solid understanding of RESTful service architecture and APIs | Strong 
+
+Qualifications:
+1. Written and oral communication in English | Fluent | 
+2. Software design and architecture, unit testing | Strong 
+3. Node.js development and frameworks such as Express, Angular, React | Strong | 
+4. Database integration, internet communications, JSON,HTTP | Very Strong 
+5.Javascript/CoffeeScript and related tools and technologies | Strong | 6. Ability to work on a team, innovate, and LOVE technology | Expert 
+
+Experience:
+Java, software development, OOD, web services | Years: Minimum 5 years 
+
+web services
+
+http://www.selectbs.com/process-maturity/what-is-object-oriented-design
+
 2 Purposes of this document. I accept contructive fedback and plan on the great resource of oter devs citirazizqking what I am trying to do here and admitting this has almost certanly been done before maybe even better but by doing this I am becoming 
 1. Devs looking for mastery of their craft with the goal to be a Senior Full stack Developer (That is me)
  although some of this will not be new its the holistic nature of the read me that may help and follow thorugh on mastery of chosen  
@@ -25,7 +62,7 @@ Reference Working Code
 check error mesasge 
 https://remysharp.com/2015/10/14/the-art-of-debugging
 
-TRELLO maybe in Agile sections ASANA
+
 After completing this pre-work module, you will have each of the following installed:
 
 Google Chrome
@@ -117,6 +154,19 @@ Contributing to the community
 
 <a name="Internet/Computer-Basics"></a>
 ## Internet/Computer Basics 
+
+
+COMPUTER knowledge :  Some of this information can seem tedious to pick but it does come in handy and I have talked to many developers who don't fully get all this. I think hte really good ones know this but most don't.  How many ports are there? 65000  - useful to know with server side tech 
+https://en.wikipedia.org/wiki/Port_(computer_networking)
+https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
+https://en.wikipedia.org/wiki/Media_type Files types JSON form-data url encoded three I have sen the most 
+
+
+SKILL: Proficient in Linux/Unix and comfortable with Mac/Windows - taken from a real job psoting for a full stack engineer
+OS 
+MAC Windows Linux
+Which one is best for a devleoper.  Well I think that is dependent on langauge and is subjective really.  The bust produccts are usually availble for all 3.  Mac comes with a better built in terminal bash than Windows and LInux comes pre installed with Python - I have seen on job psoting - experience with LInux as an actual skill, Windows has its own things like microsfot dev suite and you can get what is known as a virtual machine of windows - we may come backk to virtual machines later. Just  knwo the term. and know whatever your preference youo can still code.   some LInux basics - windwos mac in dev set up  
+
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 Static versus dynamic webpage advacned technologies 
@@ -757,10 +807,7 @@ and my link to prts and so forth from wiki
 fabric.js- canvas library 
 programmable web
 
-COMPUTER knowledge :
-https://en.wikipedia.org/wiki/Port_(computer_networking)
-https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
-https://en.wikipedia.org/wiki/Media_type Files types JSON form-data url encoded three I have sen the most 
+
 
 DEV TOOLS 
 POSTMAN and things like SWAGGER 
@@ -1216,10 +1263,20 @@ What Font
 ColorZilla
 FatKun or one like it image downloader ( checkout the file save options) 
 
+SKILLS: Work as part of a team developing applications and services using Agile development methods 
 aglie Scrum - points poker cards voting sprints - standups 
+TRELLO maybe in Agile sections ASANA cross functional - 
+
+What do you need to know about design and so forth -
+Draw.io balsamiq moqups 
 
 Search 15 jobs that you want and research learn all the technical skills desried for the postion but rember you can never know everything - mainly its the langauge 
 
+
+API rate limits to keep in mind 
+
+backend is all about passing arguaments around for the dynamic 
+also using orms to keep code dry and re use models MVC OOP - objects talkinng to each other 
 
 FORMAT 
 TABLE 
