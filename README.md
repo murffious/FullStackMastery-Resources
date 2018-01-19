@@ -4,6 +4,9 @@ IN PROGRESS - CHECK BACK LATER
  although some of this will not be new its the holistic nature of the read me that may help and follow thorugh on mastery of chosen  
 2. Someon who is wondering if they shoud do a bootcamp, self teach how to code. and if so where to start. 
 
+READING CODE = if you know the vaculary and function  is very useful  so study for HTLM cool website jsut pull up google chrome and read the code. study it - if anything seems new google it and note it down copy and paste it in to a ongoing sandbox folder. 
+
+READ ME TUROIALS - KEY IF the tutiral is well done it will work but iwth almost all cases code is exact so instaead of trying to make someting work form jsut reading it - alwasy clone the whole repo and get it working on your set up perfectly as intendded buyt he author then try to fit int into yoru project. I have seen this with auth alot its hard to get everypeice fit into your ongoing project but you need to confir it works as intended before you spend all the time tryin g ot use it.  SKILL - getting other peopls code to work with yours. Stack overlfow titel seems to be helpful but you have to adapt the working code to your own sitiation . varibale names and so forth. if you can alwasy copy and paste exact code and get working then refactro (defien this ) 
 
 DYNAMIC is the key to everything : what does hardcode mean - static it means that - so DATA FLOW for indiivual itemized dat from large amoutn saray of it dbs fulkl of it .  So the process is ussually to"hack it togheth" wiht hardcoded single use data modeled after the real data.  tehn integrate the data. Get one thing working at a time. MVP for projects. 
 
