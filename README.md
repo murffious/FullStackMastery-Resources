@@ -3,6 +3,14 @@ First of all I am seeking a position as a Senior Fullstack Engineer aka Web deve
 
 HOW TO READ THIS DOCS: SKILLS in gray header - taken from a real job psoting for a full stack engineerany paragprah or is askill I have learned on the job or in a bootcamp.  lnger than 2 sentences are bascailly my subjective expereince and thoughts. I only want to share exactly what has been to me as helpful or things i have learned and think can be learned fsater if shared in this format. Be a proficeint develpoer quicker liek havng a cheat sheet. Also a holistic collection all in one place ehich can be dangerous since it contains so much but I am doing it anyways.Where I have been and help others get there quicker. I have learned a langege and now several computer alnguesa =. determination is key.  One thing I have never hear donce is that programmin is easy. High paying jobs as it is. Bacically this is more like a small book - VOCAB sections. PRO TIPS is just a lesson learned type ofthigins highlevel overview sometimes and stuff I think is curucial \- I have read many books and conatin relatively  simialr type of content but my goal is not use words when I dont have to and let otehres do the talking and you do the googling seraching. that way you can find the ost current and select links you think lok good and in the process learn how to use google fu better and read docs  - 2 senetances of what is key inforamtion as to why you would google more of it. 
 # Senior Full Stack Developer - (average salayr about 120k (plus or minus about 40k I have seen anywhere from 85 to 160) 
+prove in startups to be a Full Stack Developer. Only a few are given freedom for what they do in the beginning stage.  almost the only way unless you have a cs degree and expereince 
+
+a professional developer produces good quality code on a regular basis. 
+
+Got an understanding on event processors and message queues like Celery and RabbitMQ. After that moved to Django. Acquainted with AWS, Nginx web servers. Developed code in CoffeeScript and Backbone JS. Played with Angular JS to create a chrome extension for my company. Currently writing a lot of JS code (client and server). Since I worked in few great startups, I got the freedom to work on all these things. I thank them from the depth of my heart.
+
+Technology is changing briskly and sticking with same work for ages may deprecate your career options. You are more valuable HOW CAN I BE OF VALUE by knwoing all this well 
+learning everyday 
 some persepctvive Lawyers earned a median salary of $118,160 in 2016, according to the BLS (USNEWS WORLD REPoRT 
  According to the BLS, dentists earned a median salary of $153,900 in 2016
  MBA grads where. Consulting leads to the biggest paycheck. The average salary for 2016 graduates of full-time programs was $126,919.
@@ -12,15 +20,34 @@ Median base salary: $95,167
 Median base salary: $109,350
 Number of job openings: 1,011
 A software engineering manager heads a team of engineers that maintain and develop software. 
-
+maangemin siills that is for another day but usualy involved - so this is mostly a foucs on techincal skiolls.
 \Data Science combined with AI is alos very hot and well paid mobile web app hence the bootcamps and others 
 
-
+CLoud techonoogeis 
 Of course in hot spots like LA SF and NY , Seattle, BOston and so forth the wages can much higher and so is the cost of living \.
 http://www.businessinsider.com/highest-paying-jobs-in-america-2017-3/#-13
 Of course docotrs are highest paid and as well know have the most schooling. 
 
-
+It is always said that being a software developer is a lifelong learning affair. Since the trends and technologies get the expire ticket often in the software field, one should be ready to cope up with a sudden change. It is a continuous treadmill where relaxing is seldom a choice.
+Many software development & engineering jobs are flooding the current job market.
+Technically speaking it is not a standard set by the industry. It is an evolutionary facet of skills. A full stack developer always tries to learn open source technologies to apply them in his/her job. In my opinion, full stack development is a minimalistic(at least) combination of following things
+Front-end Development + Back-end Development + DevOps + Design
+Apart from building web applications comfortably, a full stack developer should know how to deploy, optimize, automate the application.
+SKIL working in a team and be able to finish tasks in the time.working with other teams busienss maagners product maganer CTO 
+SKILL Choose the trivial good solution and improve it all the time
+SKILL Can automate release cycles with the knowledge of Chef or Ansible. Automate logging and failure retrieval. rollbar sonar etc 
+Having basic to medium level knowledge on hybrid mobile app development with JS, Chrome extensions and progressive web apps.
+I applied to over 120 jobs availble in a 55 miles radious in utah 
+Front-end Developer
+Web Developer
+Full Stack Developer
+Back-end Developer
+DevOps Engineer
+QA  ENgieer slightly related skill set  related althoghh not seb dev but stil well paid 
+Software Developer
+Software Engineer
+“The term full-stack means developers who are comfortable working with both back-end and front-end technologies”
+Job Outlook, 2016-26	13% (Faster than average) Bearou of Labour Statistics.) 
 WHY whould I and is it fo rme? 
 )*Avitivy One: Pick your top 10 companies you would work for.*  Gettting expereince at a lower tier company will help you get there.  Search those out on linked in for peoplpe that have those jobs in your 1st, 2nd or 3rd degree connections (go sign up now and add everuonen you know if you have not yet). Connect with them WITH a message for sure sayinig something easy going like whats it liek to work ther. INtorduce yourself aned say you'd love to connec ton linked in . Develop as many realtionship s as you can to widen you r network. Statistics for for getting a job due to netowrking "someone you know" is claimed to be the easiet or best way to get a job.  I have had little success with this but it has worked once. After selecting your 10 cmpanes reaching out to as many of the emplyees there as possible Sneior, jr. reecurieter,, maanger CTO anyone closly related to the job ando could help out.  I have found hiringn maangers names this way and then reached out to them on ilnkedd in etc. ANything helps in this regard. Even geteting interviews. The essentials include smart, passion for tech and a fierce creative porblem sover and team palyer. You cannot build great apps alone. like tech and computers. I would never count yourself out for age or past ecuation and experince. You now need to copy and paste all those job postings and see the common requiremetnes - the major ones. There is so much variety out ther you can NEVER know everything so accept that now.  Mainly knowing the core langauges and libraires are the key along with good problems solving skils and some other key skills. But is revloved around a languge. You specialize in a certain lanague or langauge set or even kow a few and become a master at a few. In the case of a full stack developer there are tons of lanauge. Right now I am a Javasciprt engieer who specailized in React Redux. and Node. with Mern known as a mern stack developer. So picking a tech stack you wantot specialize in the the first step.  Computer science knoweldge and technical challnege prowess and some sosft skills and culture fit assenstemten. This process is also known as "beginning with teh end in mind."  Also Knowing why and what you want is key in goal setting and life success. education level required: | B.S. Computer Science or equivalent experience 
 Major/Field of study: | Computer Science or related field | Years: Minimum 5 years 
@@ -31,6 +58,15 @@ My goal: APple, Google, Symantec, Adobe, LDS Church, -
 ```
 Give examples
 ```
+
+langauges 
+Elixir and Phoenix: The Future of Web APIs and Apps?
+go lang
+python 
+Kotlin
+Programming languag
+
+GURU make a list of all the job sites and so forth I gues mayebe alink to another page so as not to lcutter this one. 
 
 Table of Contents
 =================
@@ -90,6 +126,19 @@ http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html
 The harvard sites look a bit old but still work fine make sure to click the drop downs on the right side and llok for the video link and drop it sown and click to paly in there took me 5-10 mintues to fureg  this out.  
 also mobile class http://cs76.tv/2013/summer/  also be sure to read the over 200 commetns of other courses posted there and also at the very end of the post a link to another one 
 http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html
+BFS (Breadth First Search) algotithsm 
+DFS (Depth First Search)
+BFS is a traversal algorithm which in the first turn visits all adjacent nodes to a root node and then starts digging deeper.
+DFS is a traversal algorithm which first touches the bottom of maximum depth of first child node and then returns backs and starts the process from a second child.
+
+Browserify tool like gulp
+backend Can implement advanced queries and SQL Joins
+what can a person with this skill do find 5 examples.  
+
+Knows how to deploy his/her code on AWS EC2 with Apache2 or Nginx as a web server. Should have a working knowledge of Docker and Virtualization.
+
+
+Can design a web application end to end with many loosely coupled components. Should be brave enough to suggest the architectural changes if he has a valid reasoning to do so.
 
 *SKILLs: Proficient in Linux/Unix and comfortable with Mac/Windows* - 
 OS 
@@ -548,6 +597,8 @@ About me: After writing my first lines of code while taking a basic tutorial on 
 **This is just a resource I do not claim ownership of anything on here.  
 
 
+watching keynotes and alks fro tedex and tech conferences like 1.2.3. learning from the pros and gaining entrapnaurla skilsl 
+ 
 
 https://javascript30.com/
 http://blog.discudemy.com/used-js-framework-udemy-courses-free-worth-2000-45-coupons/
