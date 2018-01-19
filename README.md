@@ -165,7 +165,7 @@ what can a person with this skill do find 5 examples.
 
 Knows how to deploy his/her code on AWS EC2 with Apache2 or Nginx as a web server. Should have a working knowledge of Docker and Virtualization.
 
-
+https://www.justinmind.com/blog/online-ux-ui-courses-to-take-now-10-best-free-and-paid/
 Can design a web application end to end with many loosely coupled components. Should be brave enough to suggest the architectural changes if he has a valid reasoning to do so.
 
 *SKILLs: Proficient in Linux/Unix and comfortable with Mac/Windows* - 
@@ -277,11 +277,7 @@ GIT HUB and or Bit bucket (private repositories i.e. cloubd based storage of cod
 
 
 
-DESIGN UI UX take a site form start to finsih skill iSaw 
-cloingn - extentions what I have leaqrned not to look ask fhelp  - prictice for taking form bsiness
-my experince creating admin tool , chagned sfor m business side we diwwgn they pass of . sometimes tehy data demands  alittel diffferen thcnagte.l not udnerstood byu business. 
-picasso inspecitin gstorkes 
-asking questoins abotu UI UX and be a user and ask questiosn. I can remeber them popluar sites when i n rome 
+
 
 
 
