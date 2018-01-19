@@ -1,4 +1,42 @@
 ## Purpose Statement
+
+
+REQWUIREMENT: LVOE technolgoy section and SMart
+scren shot and quotes from 3 compnies :
+
+pretend I am my own bets friend - very important - b.c Pete liked you on paper. for smarts - 76% chance its still real 3 years
+
+ he sort of inusltred your intelligence by chosing vue not react and putting his trust in those guys 
+your chnces of lving it here dropped by 35% perccent in that moment 
+
+https://www.inc.com/justin-bariso/google-spent-years-studying-effective-teams-this-single-quality-contributed-most-to-their-success.html?cid=cp01002cnbc&__source=facebook%7Cmain
+
+
+So what was the most important factor contributing to a team's effectiveness?
+
+It was psychological safety.
+
+Simply put, psychological safety refers to an individual's perception of taking a risk, and the response his or her teammates will have to taking that risk.
+
+Google describes it this way:
+
+In a team with high psychological safety, teammates feel safe to take risks around their team members. They feel confident that no one on the team will embarrass or punish anyone else for admitting a mistake, asking a question, or offering a new idea.
+In other words, great teams thrive on trust.
+put in team work section - repseoicint gotehr belifes and view san not sayinig thigns that coudl break the safeyt even if you fel like that is how you being you - I have heard really jerek employees that is just the way I am - it was the worst work expereince ever and dev i uniwue due to closely knot teams and dialy meetings. so yes soft skills needed - jsut gogoel how to acheive this. get things done and be psoitve refrain fro swearing and talinng drity and politics and religion out side of perosnal converations at lunch or wherever 
+
+http://codeschool.com/
+
+you actually type a lot but not as much as I thoght. there is lots of mouse use and I really havent had tons of pain from tpyping too much. but its possible 
+
+https://lambdaschool.com/mini-bootcamp/?utm_medium=paid+social&utm_source=facebook.com&utm_campaign=mini+bootcamp+jan+22+18&src=facebook.com&ad=free+bootcamp&campaign=mini+bootcamp+jan+22+18
+
+it alwasy bugged me when they talk about the top talent - what does that even mean in this area?
+
+February   19th  published date to the world nd to every highschool in cafifonria new york and utah maybe oregeon and evner - hot spots. 
+
+Ther have been many efforts to get people coidng sooner - kids and i have read we still cannot fill all th e jobs with properly traned poeple/.  this is a very small attempt to do that - its a guide to entering the tech market as career or even a hobby - are you someone that thinks you can come up with tons of good app ideas and tech ideas entrepanuership well its very expeseinve to build apps 200k story and you shoudl jsut do it yourself and at the very leart in the process meet the right peopel to help you do yoru dreams. 
+
++++++++++++++++++++++++++++
 odays notes for book
 git hiub is messng up my posts 
 
