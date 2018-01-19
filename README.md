@@ -1,19 +1,20 @@
 ## Purpose Statement
-2 Purposes of this document. I accept contructive fedback and plan on the great resource of oter devs citirazizqking what I am trying to do here and admitting this has almost certanly been done before maybe even better but by doing this I am becoming 
-1. Devs looking for mastery of their craft with the goal to be a Senior Full stack Developer (That is me)
- although some of this will not be new its the holistic nature of the read me that may help and follow thorugh on mastery of chosen  
-2. Someon who is wondering if they shoud do a bootcamp, self teach how to code. and if so where to start. 
+First of all I am seeking a position as a Senior Fullstack Engineer aka Web developer/ Sotware Developer. I hope that this process and help from others through this document may lead to helpining me be a MASTER at my craft. If you are considering a coding bootcamp I highly recommend saving this document as it will come in great use to you I guarantee it. If you are studyinig comuter scinece or are curois about antyhitng aforementioned this is the right palce. This is mostly a reference doc with an app to follow eventually. My wish would be that someone find this useful for them becoming a Fullstack Sofftware develloper. 
+# Senior Full Stack Developer - (average salayr about 120k (plus or minus about 40k I have seen anywhere from 85 to 160) 
+*Avitivy One: Pick your top 10 companies you would work for.*  Gettting expereince at a lower tier company will help you get there.  Search those out on linked in for peoplpe that have those jobs in your 1st, 2nd or 3rd degree connections (go sign up now and add everuonen you know if you have not yet). Connect with them WITH a message for sure sayinig something easy going like whats it liek to work ther. INtorduce yourself aned say you'd love to connec ton linked in . Develop as many realtionship s as you can to widen you r network. Statistics for for getting a job due to netowrking "someone you know" is claimed to be the easiet or best way to get a job.  I have had little success with this but it has worked once. After selecting your 10 cmpanes reaching out to as many of the emplyees there as possible Sneior, jr. reecurieter,, maanger CTO anyone closly related to the job ando could help out.  I have found hiringn maangers names this way and then reached out to them on ilnkedd in etc. ANything helps in this regard. Even geteting interviews. The essentials include smart, passion for tech and a fierce creative porblem sover and team palyer. You cannot build great apps alone. like tech and computers. I would never count yourself out for age or past ecuation and experince. You now need to copy and paste all those job postings and see the common requiremetnes - the major ones. There is so much variety out ther you can NEVER know everything so accept that now.  Mainly knowing the core langauges and libraires are the key along with good problems solving skils and some other key skills. But is revloved around a languge. You specialize in a certain lanague or langauge set or even kow a few and become a master at a few. In the case of a full stack developer there are tons of lanauge. Right now I am a Javasciprt engieer who specailized in React Redux. and Node. with Mern known as a mern stack developer. So picking a tech stack you wantot specialize in the the first step.  Computer science knoweldge and technical challnege prowess and some sosft skills and culture fit assenstemten. This process is also known as "beginning with teh end in mind."  Also Knowing why and what you want is key in goal setting and life success. education level required: | B.S. Computer Science or equivalent experience 
+Major/Field of study: | Computer Science or related field | Years: Minimum 5 years 
+If youo are a CS major or grad. I am jealous I never thought about it in college for soem reaosn but did dabble with some free classes on app developmetn but Standfor Univierty. This documetn may help you if yu plan on going into Full Stack Web developerment or Javascirpt Enginner.  Those graduating in an realted filed Kudos to you you will have alsightly easier time finding a job on a relative scale form what I have seen. FOr the rest of us. we have to go off of Equivalent Experience.
+
+My goal: APple, Google, Symantec, Adobe, LDS Church, - 
+###### SKILLS: netowrking (relationship building) 
 
 
+E 
 
-# How to Become a Senior Full Stack Developer
 
-1. been to a boot camp and want to porgess asa developer(that's me)
-2. considering a bootcamp and wondering what will be taugt
-3. want to be a self taught programmer 
 4. got or getting a cs degree and want to learn about full stack web dvelpoemtn 
 Been to 3 bootcamps. 1. Paid Immersive FT 12 hours day for 3 months. 2. udemy past bootcamp teacher made his own course 3. a University Supported Professional Coding Bootcamp. 4. BOoks on holisitc full stack Web develoment:  5. 1 year experince coding and want to make senior in at best 3 years and maximum 7 years. 
-like tech and want to make up to 78-170 accoridng to google 
+
 
 
 Table of Contents
