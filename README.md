@@ -1289,3 +1289,5 @@ In the words of Abraham Lincoln:
 > Pardon my French
 
 https://help.github.com/articles/basic-writing-and-formatting-syntax/
+
+PRO TIP : recurieters - until you have at leaset 3 years solid successufl exp do not bother with them they get paid on ac ommision bassi . so liek k10 =k for getting you hired which is a percetage of our first yeras slaaray usualy . They have incegitve to chery pick ou and gete ou hrired.. but espically on lined in they never look at your resume or skill set they jsut spanm put based on soem key word algorithm. I could be wrong but don tworry about them unless verywell eduacaated or lots of desirble stack expiece. 
