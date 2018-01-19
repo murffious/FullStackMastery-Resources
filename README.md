@@ -28,6 +28,10 @@ Of course in hot spots like LA SF and NY , Seattle, BOston and so forth the wage
 http://www.businessinsider.com/highest-paying-jobs-in-america-2017-3/#-13
 Of course docotrs are highest paid and as well know have the most schooling. 
 
+GET THAT EMAIL I SENT O MYSELF it manly talk sbaout what ot do when i am done
+back edn small functions do jobs for unqie data as well like the front end
+principle. 
+
 
 Go through notes. 
 1. 2 different courses or more you learn tons from different perspectives 
