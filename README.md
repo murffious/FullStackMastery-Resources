@@ -1,7 +1,7 @@
 ## Purpose Statement
-First of all I am seeking a position as a Senior Fullstack Engineer aka Web developer/ Sotware Developer. I hope that this process and help from others through this document may lead to helpining me be a MASTER at my craft. If you are considering a coding bootcamp I highly recommend saving this document as it will come in great use to you I guarantee it. If you are studyinig comuter scinece or are curois about antyhitng aforementioned this is the right palce. This is mostly a reference doc with an app to follow eventually. My wish would be that someone find this useful for them becoming a Fullstack Sofftware develloper. Be more direct here and simple with explanation after. Been to 3 bootcamps. 1. Paid Immersive FT 12 hours day for 3 months. 2. udemy past bootcamp teacher made his own course 3. a University Supported Professional Coding Bootcamp. 4. BOoks on holisitc full stack Web develoment:  5. 1 year experince coding and want to make senior in at best 3 years and maximum 7 years. I want to share the relazatively littel iI have learned but wish I knew more of when I started. Eveyrone that reads general psots out there on linked nin or caaeer stuf knows that Websd=veolopment is hot and growing so no better time to start tahn now. 
+First of all I am seeking a position as a Senior Fullstack Engineer aka Web developer/ Sotware Developer. I hope that this process and help from others through this document may lead to helpining me be a MASTER at my craft. If you are considering a coding bootcamp I highly recommend saving this document as it will come in great use to you I guarantee it. If you are studyinig comuter scinece or are curois about antyhitng aforementioned this is the right palce. This is mostly a reference doc with an app to follow eventually. My wish would be that someone find this useful for them becoming a Fullstack Sofftware develloper. Be more direct here and simple with explanation after. Been to 3 bootcamps. 1. Paid Immersive FT 12 hours day for 3 months. 2. udemy past bootcamp teacher made his own course 3. a University Supported Professional Coding Bootcamp. 4. BOoks on holisitc full stack Web develoment:  5. 1 year experince coding and want to make senior in at best 3 years and maximum 7 years. I want to share the relazatively littel iI have learned but wish I knew more of when I started. Eveyrone that reads general psots out there on linked nin or caaeer stuf knows that Websd=veolopment is hot and growing so no better time to start tahn now. After my bootcamp I took some React courses from a great Udemy Pro name Stephen Grider. I also bought a course taught by an ex bootcamp insturctor which was an entire bootcamp on its own from what he took and said it was better than his bootcamp.  Both of these peole claim their students go on to get jobs.  I spent about $120 on about 10 courses. I was so furoius I had jsut soent well over 12000 for a 3 month bootcamp that I was motivated ot help others not have to do that.  DOn't get me wrong I actualy do not regret my expereince and recommend it to anyone needing structure BUT te reason I was mad is that I finally understood that the key beifnte is sommeone explainging to you when you are stuck.  You cannot esaily interact with the udemy professor althoguh the ones I have metninoed are agressive in getting realtivley quick respnsed ot you but even a few hours is costly.   
 
-HOW TO READ THIS DOCS: SKILLS in gray header - taken from a real job psoting for a full stack engineerany paragprah or is askill I have learned on the job or in a bootcamp.  lnger than 2 sentences are bascailly my subjective expereince and thoughts. I only want to share exactly what has been to me as helpful or things i have learned and think can be learned fsater if shared in this format. Be a proficeint develpoer quicker liek havng a cheat sheet. Also a holistic collection all in one place ehich can be dangerous since it contains so much but I am doing it anyways.Where I have been and help others get there quicker. I have learned a langege and now several computer alnguesa =. determination is key.  One thing I have never hear donce is that programmin is easy. High paying jobs as it is. Bacically this is more like a small book - VOCAB sections
+HOW TO READ THIS DOCS: SKILLS in gray header - taken from a real job psoting for a full stack engineerany paragprah or is askill I have learned on the job or in a bootcamp.  lnger than 2 sentences are bascailly my subjective expereince and thoughts. I only want to share exactly what has been to me as helpful or things i have learned and think can be learned fsater if shared in this format. Be a proficeint develpoer quicker liek havng a cheat sheet. Also a holistic collection all in one place ehich can be dangerous since it contains so much but I am doing it anyways.Where I have been and help others get there quicker. I have learned a langege and now several computer alnguesa =. determination is key.  One thing I have never hear donce is that programmin is easy. High paying jobs as it is. Bacically this is more like a small book - VOCAB sections. PRO TIPS is just a lesson learned type ofthigins highlevel overview sometimes and stuff I think is curucial \- I have read many books and conatin relatively  simialr type of content but my goal is not use words when I dont have to and let otehres do the talking and you do the googling seraching. that way you can find the ost current and select links you think lok good and in the process learn how to use google fu better and read docs  - 2 senetances of what is key inforamtion as to why you would google more of it. 
 # Senior Full Stack Developer - (average salayr about 120k (plus or minus about 40k I have seen anywhere from 85 to 160) 
 *Avitivy One: Pick your top 10 companies you would work for.*  Gettting expereince at a lower tier company will help you get there.  Search those out on linked in for peoplpe that have those jobs in your 1st, 2nd or 3rd degree connections (go sign up now and add everuonen you know if you have not yet). Connect with them WITH a message for sure sayinig something easy going like whats it liek to work ther. INtorduce yourself aned say you'd love to connec ton linked in . Develop as many realtionship s as you can to widen you r network. Statistics for for getting a job due to netowrking "someone you know" is claimed to be the easiet or best way to get a job.  I have had little success with this but it has worked once. After selecting your 10 cmpanes reaching out to as many of the emplyees there as possible Sneior, jr. reecurieter,, maanger CTO anyone closly related to the job ando could help out.  I have found hiringn maangers names this way and then reached out to them on ilnkedd in etc. ANything helps in this regard. Even geteting interviews. The essentials include smart, passion for tech and a fierce creative porblem sover and team palyer. You cannot build great apps alone. like tech and computers. I would never count yourself out for age or past ecuation and experince. You now need to copy and paste all those job postings and see the common requiremetnes - the major ones. There is so much variety out ther you can NEVER know everything so accept that now.  Mainly knowing the core langauges and libraires are the key along with good problems solving skils and some other key skills. But is revloved around a languge. You specialize in a certain lanague or langauge set or even kow a few and become a master at a few. In the case of a full stack developer there are tons of lanauge. Right now I am a Javasciprt engieer who specailized in React Redux. and Node. with Mern known as a mern stack developer. So picking a tech stack you wantot specialize in the the first step.  Computer science knoweldge and technical challnege prowess and some sosft skills and culture fit assenstemten. This process is also known as "beginning with teh end in mind."  Also Knowing why and what you want is key in goal setting and life success. education level required: | B.S. Computer Science or equivalent experience 
 Major/Field of study: | Computer Science or related field | Years: Minimum 5 years 
@@ -55,11 +55,22 @@ SKills Solid understanding of internet and IP communications protocols and forma
 
 The fist question is how does the internet work ? https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm  Be sure to note teh resoureces section for further learnng.  if this psot from a Stanford Univeristy class does not help just Google it for 30 mins on Youtube and infographcs if you prefer. Again evertyhing in here is necesary knwoldeg for a ser=nior fullstack engineer if you want just the basics like preppring for a bootcamp maybe jsut spend 5 minutes on each of the more boring topics liek this one for  aorugh overview or better yet spend horus and don't even go to a bootcamp. Save the money. 
 
+Biary 1 and 0 history of pragramming in gernal low level and high level langauges compilers etc
+
+[A Fascinating And Messy History Of The Web And JavaScript](https://youtu.be/a2e3cAc4Ux4)
+
 COMPUTER knowledge :  Some of this information can seem tedious to pick but it does come in handy and I have talked to many developers who don't fully get all this. I think hte really good ones know this but most don't.  How many ports are there? 65000  - useful to know with server side tech 
 https://en.wikipedia.org/wiki/Port_(computer_networking)
 https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
 https://en.wikipedia.org/wiki/Media_type Files types JSON form-data url encoded three I have sen the most 
 
+Computer Science and OOP OOD ALGORITMS BIG O DATA STRUCUTRES , RECURSION, SORITNG back to FUNCTINAL PROggramming 
+http://btholt.github.io/four-semesters-of-cs/
+HArvard CS 50 calss either year or latest one edx HTML class as well free Udemy courses
+http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html
+The harvard sites look a bit old but still work fine make sure to click the drop downs on the right side and llok for the video link and drop it sown and click to paly in there took me 5-10 mintues to fureg  this out.  
+also mobile class http://cs76.tv/2013/summer/  also be sure to read the over 200 commetns of other courses posted there and also at the very end of the post a link to another one 
+http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html
 
 *SKILLs: Proficient in Linux/Unix and comfortable with Mac/Windows* - 
 OS 
@@ -148,6 +159,13 @@ linked in  learning or lynda.com
 codeschool
 front end masters 
 
+
+READING CODE = if you know the vaculary and function  is very useful  so study for HTLM cool website jsut pull up google chrome and read the code. study it - if anything seems new google it and note it down copy and paste it in to a ongoing sandbox folder. 
+READ ME TUROIALS - KEY IF the tutiral is well done it will work but iwth almost all cases code is exact so instaead of trying to make someting work form jsut reading it - alwasy clone the whole repo and get it working on your set up perfectly as intendded buyt he author then try to fit int into yoru project. I have seen this with auth alot its hard to get everypeice fit into your ongoing project but you need to confir it works as intended before you spend all the time tryin g ot use it.  SKILL - getting other peopls code to work with yours. Stack overlfow titel seems to be helpful but you have to adapt the working code to your own sitiation . varibale names and so forth. if you can alwasy copy and paste exact code and get working then refactro (defien this ) 
+DOCS readings- the first several times looking at DOCS you are very bored and have a hard time udnersating super easily what is going on .  YOu will grow to love people who have good docs like react or express. Jquery.  Some docs make you wan to cry 
+copy pasting snipepts of code and making sense and use of it. code is exact if you don't tell it ecalty and get everyithgn it will break and does often. 
+
+SKILLS: writting celan mainaltabel sacaleb code. 
 
 
 
@@ -278,6 +296,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 
 
+Javasciprt liek laerning alangea has subject and very and sytnax.  IN jasavasript you have a bunhc of ojects talnig to each otehr.  OOP - teh verbs are METHODS and the subjects are STRING ARRAY OBJECT and adjectives AMTH - reg ex W# schools is not perfect and most good devs will tell yout its crap BUT one thinig is for sure for a simple basic reference it sis excelleent: technique for solivng problesm - i google sthis and all they said was do spuedo code really so I have added a couple of tehcniques. for loop , type of , console.log, if statemetn - combingn arrays looping over them comparing values inside two arrays, adding and eleteing items from arrays turnign stings into array and aarays into stirngs to use the emthdos availel there on them usng reg ex to replae and amtch and undertaing how to use BOOLEAN values in all of those scenarieso.  that is pretyy much almsot 90% of toy pronlesms. 
 
 state of Javascirpt here then go into librqires -
 https://stackoverflow.blog/2018/01/11/brutal-lifecycle-javascript-frameworks/?utm_content=buffer9e8de&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
@@ -286,7 +305,7 @@ https://stackoverflow.blog/2018/01/11/brutal-lifecycle-javascript-frameworks/?ut
 
 
 Learn http://underscorejs.org/ OR https://lodash.com/  Typescript http://www.typescriptlang.org/Tutorial
-my comments,
+my comments
 content
 useful links and books:
 challange or activtiy like writing the same app in 2-3 langauges 
@@ -510,9 +529,6 @@ About me: After writing my first lines of code while taking a basic tutorial on 
 **This is just a resource I do not claim ownership of anything on here.  
 
 
-video on the Hiostry of the the internet here. 
-https://youtu.be/a2e3cAc4Ux4
-HArvard CS 50 calss either year or latest one edx HTML class as well free Udemy courses
 
 https://javascript30.com/
 http://blog.discudemy.com/used-js-framework-udemy-courses-free-worth-2000-45-coupons/
