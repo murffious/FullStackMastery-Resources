@@ -1,4 +1,8 @@
 ## Purpose Statement
+
+SKILLS: Be able to look at any code and explain exactly what is going on line for line - excatly including syntax
+you will wonder why the terminal is being used with no GUi 
+
 goal is to get you portfolio pieces and the proficiency to make them  : those that have a job guarantee just learn what they learn and do the required job search criteria and just assume that you will get a job. I know you can do it . But it does take hard work.  video read me lnked in all the stuff I learned for free-not just the code 
 
 REQWUIREMENT: LVOE technolgoy section and SMart
