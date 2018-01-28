@@ -1,5 +1,5 @@
 IN PROGRESS - CHECK BACK LATER 
-
+test 
 SKILLS notes in BLUE are all taken from real job psotings, copy and pasted the skill as is on the post  as required skills to get a job in full stack javascirpt engineer or software enginner whihc is lots of the time a full stack dev. 
 
 full stack Node.js/React developer will be part of the team responsible for web-based applications (front and backend) to implement and support PayClip’s payment processing system. 
