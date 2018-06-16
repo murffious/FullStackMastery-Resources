@@ -2,7 +2,41 @@ IN PROGRESS - CHECK BACK LATER
 test 
 SKILLS notes in BLUE are all taken from real job psotings, copy and pasted the skill as is on the post  as required skills to get a job in full stack javascirpt engineer or software enginner whihc is lots of the time a full stack dev. 
 
-full stack Node.js/React developer will be part of the team responsible for web-based applications (front and backend) to implement and support PayClip’s payment processing system. 
+
+
+
+4 year study plan
+
+Software Engineer 
+- Goal master all the skills needed to be a senior software engineer or more
+- Have a solid demonstrated foundation of CS knowledge needed to compete at big companies or CS students
+- Have a structured way to master small pieces and knowledge at a time. 
+
+CS knowledge 
+Internet/WW/computer general knowledge 
+
+Problem Solving and Analytical Skils
+
+Library/Framework Mastery/Knowledge 
+
+Linux/MocOS/Windows knowledge 
+
+CSE 591 Software Engineering Principles and Concepts (3)
+
+CSE 543 Information Assurance and Security (3) CSE 565 Software Verification and Validation, and Testing (3) CSE 566 Software Project, Process and Quality Management (3)
+
+Building and deploying applications to cloud hosting providers and key concepts of web security
+Programming languages 
+Front-End Foundations	Advanced concepts of CSS and JavaScript
+Programming Foundations	Basic programming concepts with choice of JavaScript, C#, Ruby or Java
+Front-End Frameworks	Front-end frameworks and Single Page Web Applications (SPA) with AngularJS or ReactJS
+Back-End Foundations	Concepts of server-side software development, relational and non-relational databases, webservers, and software platforms in Express, ASP.NET, Ruby on Rails, or Spring
+Database Foundations	Database concepts, theory, and an overview of various implementations and architectures
+Mobile Apps & Responsive Design	Mobile applications (iOS/Android), Angular and Cordova, and Responsive Design
+Agile Project Management & Career Skills	Principles of managing software projects and teams, interview techniques, and career search skills
+Deployment & Web Security	
+The basics of HTML, CSS, JavaScript and Source Control
+
 
 Key Activities:
 1. 
