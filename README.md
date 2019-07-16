@@ -2427,7 +2427,7 @@ Mati x cable and it’s for the kids signs you love technology
 
 Apk file
 
-DESIGN UI UX take a site form start to finsih skill iSaw cloingn - extentions what I have leaqrned not to look ask fhelp - prictice for taking form bsiness my experince creating admin tool , chagned sfor m business side we diwwgn they pass of . sometimes tehy data demands alittel diffferen thcnagte.l not udnerstood byu business. picasso inspecitin gstorkes asking questoins abotu UI UX and be a user and ask questiosn. I can remeber them popluar sites when i n rome
+DESIGN UI UX take a site form start to finsih skill iSaw cloingn - extentions what I have leaqrned not to look ask fhelp - prictice for taking form bsiness my experince creating admin tool , chagned sfor m business side we diwwgn they pass of . sometimes tehy data demands alittel diffferen thcnagte.l not udnerstood byu business. picasso inspecitin gstorkes asking questoins about UI UX and be a user and ask questiosn. I can remeber them popluar sites when i n rome
 https://www.justinmind.com/blog/online-ux-ui-courses-to-take-now-10-best-free-and-paid/ draw.io and maye photoshpp illustorr 
 
 
@@ -4751,7 +4751,7 @@ Get smart - Microsoft  Podium - if learning is always there and problems solving
 **Skill 4 : Getting Outside Help**
 Use Slack chat groups, Facebook Groups, Meet-ups, Office Hours, Tutors, these are real people not Google, Videos, Tutorials, ReadMe etc. Slack is by far the best but for some things Facebook group comments and other message boards like Git Hub or Reddit can be huge help as well. 
 
-I was helping someone at the UofU bootcamp when they asked a quesiton abotu React native Tab navigaotr. I did not know the answer off hand and our first google saerches led to nothing.  I told him to slack it out in a specific channel for that tech and he got the exact spot on answer in less than minutes. he promptly joined the Slack channel I recommened and also told him to post it in Facebook Group for React native at the same time.  WIhtin 2 miniutes the exact anser came to him by some awesome fellow coder. It was a link to the full explanation we had never found. 
+I was helping someone at the UofU bootcamp when they asked a quesiton about React native Tab navigaotr. I did not know the answer off hand and our first google saerches led to nothing.  I told him to slack it out in a specific channel for that tech and he got the exact spot on answer in less than minutes. he promptly joined the Slack channel I recommened and also told him to post it in Facebook Group for React native at the same time.  WIhtin 2 miniutes the exact anser came to him by some awesome fellow coder. It was a link to the full explanation we had never found. 
 
 I have also been helped by Slack messages many times. There are a few things I have learned in doing so. Basically the rule is jsut respect the community common sense type of stuff.  If you care to have it spelled out here are a few tips. 
 
